@@ -1043,7 +1043,7 @@
       language: [en]
 - title: "The Modern and the Wake"
   id: themodernandthewake
-  kind: [book]
+  kind: [essay, recording]
   year: 1992
   publisher: "The Lilliput Press"
   city: Dublin
