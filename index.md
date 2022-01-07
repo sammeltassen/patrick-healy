@@ -3,8 +3,8 @@ layout: list
 ---
 ## {{ site.title }}
 
-<div class="right">
-<img class="photo" src="assets/img/main/patrick.jpg">
+<div class="portrait">
+<img src="assets/img/main/patrick.jpg">
 </div>
 
 Selected writings of Patrick Healy, writer, philosopher.

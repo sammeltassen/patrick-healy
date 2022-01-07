@@ -66,8 +66,6 @@ ul.list {
 }
 
 .portrait>img {
-	border-radius: 50%;
-	width: 300px;
 }
 
 .mfp-iframe-holder .mfp-content {
@@ -78,6 +76,6 @@ ul.list {
 @media screen and (max-width: 800px) {
   .portrait {
 	float: none;
-	text-align: center;
+	text-align: left;
   }
 }
