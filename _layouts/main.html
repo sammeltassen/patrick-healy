@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8">
+		<title>{{ site.title }}</title>
+		<meta name="title" content="{{ site.title }}">
+		<meta name="author" content="{{ site.author }}">
+		<meta name="description" content="{{ site.description }}">
+		<meta name="keywords" content="{{ site.keywords }}">
+		<meta property="og:image" content="{{ '/assets/img/main/patrick.jpg' | absolute_url }}">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+		<link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}">
+  </head>
+  <body>
+  	<article>
+  		<section>
+			{{ content }}
+		</section>
+  </body>
+</html>
+
+

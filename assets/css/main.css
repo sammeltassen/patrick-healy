@@ -1,0 +1,83 @@
+---
+---
+ul.list { 
+	list-style-type: none; 
+	padding: 0;
+	}
+
+.title {
+}
+
+.left {
+	float: left;
+}
+
+.thumb {
+	padding-left: 1em;
+}
+
+.right {
+	float: right;
+}
+
+.description {
+	padding-left: 8rem;
+}
+
+.booktitle {
+	font-style: italic;
+}
+
+.title {
+	font-weight: bold;
+}
+
+.year, .kind {
+	font-size: 0.9em;
+}
+
+.panel-right {
+
+}
+
+.clear {
+	clear:both;
+}
+
+.panel {
+	padding-left: 8rem;
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.2s ease-out;
+}
+
+.edition {
+	clear:both;
+	padding-top: 1rem;
+}
+
+.accordion {
+	cursor: pointer;
+}
+		
+.portrait {
+	float: right;
+	vertical-align: top;
+}
+
+.portrait>img {
+	border-radius: 50%;
+	width: 300px;
+}
+
+.mfp-iframe-holder .mfp-content {
+	 max-width: 1000px;
+	 height: 100%;
+}
+
+@media screen and (max-width: 800px) {
+  .portrait {
+	float: none;
+	text-align: center;
+  }
+}

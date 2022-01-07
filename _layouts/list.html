@@ -1,0 +1,115 @@
+---
+layout: main
+---
+<body>
+	<article>
+		<section>
+		{{ content }}
+	</section>
+	<section>
+		<div id="projects">
+		<label>Search:</label>
+		<input class="search" id="text" name="text" type="text" required="" minlength="1" placeholder="query">
+		<label>Sort by:</label>
+		<button class="sort" data-sort="title">title</button>
+		<button class="sort" data-sort="year">year</button>
+		<button class="sort" data-sort="kind">kind</button><br>
+		<p><em>{{ site.data.items.size }} items in total</em></p>
+		<ul class="list">
+		{% for item in site.data.items %}
+		<li><hr>
+		<div class="accordion">
+			<div class="left thumb">
+				<span><img src="assets/img/thumbs/{{ item.id }}.jpg""></span>
+			</div>
+			<div class="description"><p>
+				<span class="year">{{ item.year }}</span> / 
+				<span class="kind">{{ item.kind | join: ' / ' | upcase }}</span><br>
+				<span class="title">{{ item.title }}</span><br>
+				{% if item.editors.size == 1 %}
+					<span class="editors">In: {{ item.editors }} (ed.)</span><br>
+					{% elsif item.editors.size > 1 %}
+					<span class="editors">In: {{ item.editors | join: ', ' }} (eds.)</span><br>
+				{% endif %}
+				{% if item.booktitle %}
+					<span class="booktitle">{{ item.booktitle }}</span><br>
+				{% endif %}
+				{% if item.publisher %}
+					<span class="publisher">{{ item.publisher }}, {{ item.city }}</span><br>
+				{% endif %}
+				{% if item.pages %}
+					<span class="pages">pp. {{ item.pages | join: ', ' }}<span><br>
+				{% endif %}
+				</p>
+				{% if item.extra %}
+					<p><span class="extra">{{ item.extra }}</span></p>
+				{% endif %}
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="panel">
+			{% if item.files %}
+				<p>Files:
+				<ul>
+				{% for file in item.files %}
+					<li>
+						<a class="pdf" href="/assets/js/pdfjs/web/viewer.html?file=https://assets.patrick-healy.com/pdf/{{ file.filename }}">
+						{{ file.filename }}</a>
+						</li>
+				{% endfor %}
+				</ul><p>
+			{% else %}
+			<p>No files available (yet)</p>
+			{% endif %}
+			
+			{% if item.links %}
+				<p>Links:
+				<ul>
+				{% for link in item.links %}
+						<li><a href="{{ link.url }}">{{ link.title }}</a></li>
+				{% endfor %}
+				</ul></p>
+			{% else %}
+			<p>No links available</p>
+			{% endif %}
+		</div>
+		</li>
+		{% endfor %}
+		</ul>
+	</section>
+	</article>
+    
+<script type="application/javascript">
+  var options = {
+    valueNames: [ 'title', 'year', 'kind', 'publisher', 'city', 'booktitle', 'editors', 'extra' ]
+  };
+  
+  var projectsList = new List('projects', options);
+
+  var acc = document.getElementsByClassName("accordion");
+  var i;
+
+  for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+    });
+  }
+  
+  $(document).ready(function() {
+    $('.pdf').magnificPopup({
+    type:'iframe'
+    });
+  });
+  
+  $( "#fraktur" ).click(function() {
+    $( ".toggle" ).toggleClass( "fraktur" );
+  });
+</script>
+
+<body>
