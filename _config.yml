@@ -29,6 +29,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.patrick-healy.com" # the base hostname & protocol for your site, e.g. http://example.com
 gcs_prefix: "https://storage.googleapis.com/storage/v1/b/sammeltassen.nl/o/patrick-healy%2F"
 gcs_postfix: "?alt=media"
+collections:
+  articles:
+    output: true
 
 # Build settings
 # Exclude from processing.
