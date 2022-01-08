@@ -55,31 +55,31 @@
   year: 2019
   added: 2020-02-29
   files: 
-    - filename: "PPP/PPP44.pdf"
+    - filename: "PPP44.pdf"
       kind: "Full magazine"
       pages: 31
       language: [en]
-    - filename: "PPP/PPP45.pdf"
+    - filename: "PPP45.pdf"
       kind: "Full magazine"
       pages: 65
       language: [en]
-    - filename: "PPP/PPP46.pdf"
+    - filename: "PPP46.pdf"
       kind: "Full magazine"
       pages: 71
       language: [en]
-    - filename: "PPP/PPP47.pdf"
+    - filename: "PPP47.pdf"
       kind: "Full magazine"
       pages: 45
       language: [en]
-    - filename: "PPP/PPP48.pdf"
+    - filename: "PPP48.pdf"
       kind: "Full magazine"
       pages: 43
       language: [en]
-    - filename: "PPP/PPP49.pdf"
+    - filename: "PPP49.pdf"
       kind: "Full magazine"
       pages: 25
       language: [en]
-    - filename: "PPP/PPP50.pdf"
+    - filename: "PPP50.pdf"
       kind: "Full magazine"
       pages: 71
       language: [en]
@@ -258,11 +258,11 @@
   year: 2016
   added: 2016-08-17
   files: 
-    - filename: "PPP/PPP42.pdf"
+    - filename: "PPP42.pdf"
       kind: "Full magazine"
       pages: 92
       language: [en]
-    - filename: "PPP/PPP43.pdf"
+    - filename: "PPP43.pdf"
       kind: "Full magazine"
       pages: 144
       language: [en]
@@ -333,23 +333,23 @@
   year: 2015
   added: 2016-02-23
   files: 
-    - filename: "PPP/PPP37.pdf"
+    - filename: "PPP37.pdf"
       kind: "Full magazine"
       pages: 44
       language: [en]
-    - filename: "PPP/PPP38.pdf"
+    - filename: "PPP38.pdf"
       kind: "Full magazine"
       pages: 86
       language: [en]
-    - filename: "PPP/PPP39.pdf"
+    - filename: "PPP39.pdf"
       kind: "Full magazine"
       pages: 69
       language: [en]
-    - filename: "PPP/PPP40.pdf"
+    - filename: "PPP40.pdf"
       kind: "Full magazine"
       pages: 37
       language: [en]
-    - filename: "PPP/PPP41.pdf"
+    - filename: "PPP41.pdf"
       kind: "Full magazine"
       pages: 62
       language: [en]
@@ -467,7 +467,7 @@
   booktitle: "Paleo Psycho Pop #36"
   added: 2014-10-15
   files: 
-    - filename: "PPP/PPP36.pdf"
+    - filename: "PPP36.pdf"
       kind: "Full magazine"
       pages: 56
       language: [en]

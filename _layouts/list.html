@@ -48,7 +48,17 @@ layout: main
 			<div class="clear"></div>
 		</div>
 		<div class="panel">
-			{% if item.files %}
+			{% if item.files and item.files[0].filename contains "PPP" %}
+				<p>Files:
+				<ul>
+				{% for file in item.files %}
+					<li>
+						<a class="pdf" href="/assets/js/pdfjs/web/viewer.html?file={{ site.gcs_prefix | replace: 'patrick-healy', 'paleo-psycho-pop' | url_encode }}{{ file.filename | url_encode }}{{ site.gcs_postfix | url_encode }}">
+						{{ file.filename }}</a>
+						</li>
+				{% endfor %}
+				</ul><p>
+			{% elsif item.files %}
 				<p>Files:
 				<ul>
 				{% for file in item.files %}
@@ -61,7 +71,6 @@ layout: main
 			{% else %}
 			<p>No files available (yet)</p>
 			{% endif %}
-			
 			{% if item.links %}
 				<p>Links:
 				<ul>
@@ -78,7 +87,6 @@ layout: main
 		</ul>
 	</section>
 	</article>
-    
 <script type="application/javascript">
   var options = {
     valueNames: [ 'title', 'year', 'kind', 'publisher', 'city', 'booktitle', 'editors', 'extra' ]
@@ -111,5 +119,4 @@ layout: main
     $( ".toggle" ).toggleClass( "fraktur" );
   });
 </script>
-
 <body>
