@@ -53,7 +53,7 @@ layout: main
 				<ul>
 				{% for file in item.files %}
 					<li>
-						<a class="pdf" href="/assets/js/pdfjs/web/viewer.html?file=https://storage.googleapis.com/storage/v1/b/sammeltassen.nl/o/patrick-healy%2F{{ file.filename }}%3Falt%3Dmedia">
+						<a class="pdf" href="/assets/js/pdfjs/web/viewer.html?file={{ site.gcs_prefix | url_encode }}{{ file.filename | url_encode }}{{ site.gcs_postfix | url_encode }}">
 						{{ file.filename }}</a>
 						</li>
 				{% endfor %}
