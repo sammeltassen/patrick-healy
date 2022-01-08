@@ -38,7 +38,7 @@ The painting should be a release, not just the record of the tracks taken, he su
 One can mark the literal fast forward in his thinking and practice as a student from a work of 1956, entitled Landscape with a White Sky, the first painting of his reproduced in a national magazine. He discovered the work of Malevich and had known Mondriaan. In Chicago he felt he was directly tacking the European tradition, but the real pull which left him conflicted was of the pair the American Graves and the Dutch Mondriaan.He remained oblivious to the appearance of Pollock, who had already been featured as a public artist in Life magazine. When speaking of his past Stout has a remarkable memory, and remembers it through his works and paintings as much as through individuals and experiences of the social.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_79d8cca6.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_79d8cca6.jpg">
 <figcaption>Landscape with a white sky, 1956.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ He had in an unusually precocious development set himself a task. This very expl
 He had a fierce commitment to his method of creating a surface, painting wet in wet, in order to avoid what he saw as the over worked and dry surfaces that had become a kind of orthodox minimalism. He wanted a fat even waxy surface like a ripe plum, to discover the wetness of water, as he put it. In the most complex composition he understood, from his musical training, that the art of composition was in the transitions.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m75c5b8a2.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m75c5b8a2.jpg">
 <figcaption>Passion, 1957.</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ The painter is only the moment of involvement in that primary experience.
 The time of which he had spoken, is nothing other than the time of movement, where the expressed becomes its expression.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_23e1732d.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_23e1732d.jpg">
 <figcaption>I went down to the Sea, 1959.</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Stout recognizes that his painting is not a kind of meta-painting; only about ho
 Even a relatively recent publication at the Beehive Museum (2010)stresses this dimension of Stout&rsquo;s sense of the existential and fearful, which his encounter with space has deepened and hallowed. Thomas Mc Evilley has called attention to work from the mid 50&rsquo;s which express a kind of muted sadness, and points to the fact that many works of these years present hazy or misty views of landscape , in a subdued palette of brown and grays sparked with mellow hues of primary colors. He cites a work Untitled &ndash; now known as Blue Gibraltar-from 1957-maintaining what he calls a soft focus and gently modulated palette but &lsquo; with increasing inner turmoil that cannot be clearly seen as it seems to transpire behind a filmy veil&rdquo;
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m25036cf8.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m25036cf8.jpg">
 <figcaption>Blue Gibraltar, 1957.</figcaption>
 </figure>
 
@@ -94,12 +94,12 @@ Mc Evilley also sees the modernist commitments of Stout, and his relation to the
 Stout&lsquo;s thinking about the edge is an intensification of the formal consideration for the process of composition, that also triggers a way to track his commitment to meaning in the landscape and work of the late 50&rsquo;s.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_35a58b20.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_35a58b20.jpg">
 <figcaption>Tornado, 1957.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m5703366b.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m5703366b.jpg">
 <figcaption>Landscape, 1981.</figcaption>
 </figure>
 
@@ -116,7 +116,7 @@ There is no neat narrative story of Stout&rsquo;s development. His beginnings ar
 He returns to them at various stages as he moves along the tracks he develops and re-capitulates what has taken place. One example of this must suffice for the moment, namely the shock of the work he produced in the early 1980&rsquo;s, which was treated in a short lecture that is of considerable interest in terms of this problem of his own active re-working of biography and past, as again a work in creative relations in the sense of Hofmann, and here becoming almost reflexive: entering an intense loop of his own making. One could think of a fugual autobiography in paint. The higher third in the making is the artists own identity. It is precisely this &#39;coming-and-going&#39; that a later commentator picks up on in considering Stout&#39;s development in the 1980&#39;s.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_178b06f3.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_178b06f3.jpg">
 <figcaption>The Den, 1952.</figcaption>
 </figure>
 
@@ -127,14 +127,14 @@ For those viewers whose acquaintance with Stout&rsquo;s work goes back to his ea
 These books include Lautr&eacute;amont Les Chants de Maldoror and Edmund Burke&rsquo;s A Philosophical Enquiry into the Origin of our Ideas of the Sublime and Beautiful. The new paintings of figures and landscapes are different, of course. They are more representation, complex and thoroughly self-referential. Stout considers every figure to be a self-portrait every landscape a personal metaphor.&rdquo; t flows backwards and forwards and the logic of events remain marked by this personal signature, even a kind of learned inter-iconic tension, which is only available from a deep familiarity with the work. The subtle shifts and the sudden swerving from catastrophe such as registered in the work of the early 80&rsquo;s is also a kind of horror before the possible closure which early work brings about, a revulsion to the inevitable dead-ends that he has faced when coming to literally the edge.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m63be13db.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m63be13db.jpg">
 <figcaption>Vertical Still Life, 1952.</figcaption>
 </figure>
 
 Here we can consider, for example, the very work of the 1950&rsquo;s which become aggressively counterpointed in the early 80&rsquo;s almost 30 years later: the themes are jagged and use figuration as a form of anarchic, and personal revolt. The figure paintings are in the words of the lecture typescript:&rdquo;arranged to stress profound and often ambiguous psychological relationships of separation, liberation, rejection and linkage.&rdquo;
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m70596739.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m70596739.jpg">
 <figcaption>Supplication, 1982.</figcaption>
 </figure>
 
@@ -145,14 +145,14 @@ One can see in the work Supplication, a complicated and programmatic theme.
 The latter performs a role of judgment &ndash; one hand appears to accept the supplicant figure; the other hand rejects.&rdquo; tout clearly at this point, wants the metaphorical, wants even the self-destruction which breaks up his own past, as if the de-construction will liberate another source of energy.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_4fac1b0a.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_4fac1b0a.jpg">
 <figcaption>Coming Home, 1983.</figcaption>
 </figure>
 
 It is a way the artist finds to go on.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_22e450f9.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_22e450f9.jpg">
 <figcaption>Paradise Dream, 1983.</figcaption>
 </figure>
 
@@ -161,19 +161,19 @@ Again almost 30 years later he returns to landscape with a sketch, romantic aban
 He happily confirmed in 83 his references, his books, the solitary figures of Holder, and a painter to whom he often makes reference, Friedrich this is visible from his work Paradise Dream, which is a sensuous and rich visual exploration of the luxurious effects of light and color. There are trees, or upright forms, menhirs, columns which with the resource of allegory wish to explode the possible web of relation and meaning out beyond the very particular which have engaged the most intense even melancholic scrutiny.&rsquo;
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_6240b805.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_6240b805.jpg">
 <figcaption>Ancient Passion, 1984.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m3d1f7beb.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m3d1f7beb.jpg">
 <figcaption>Tornado, 1957.</figcaption>
 </figure>
 
 &ldquo;Mysterious colors, the mountain, and ceremonial trees, statues, menhirs,recall an Allegory, while Fate of Knowledge reappears in abrupt spatial divisions and the theme of the walled paradise/garden. Stout describes his concern in this painting as the &lsquo;sensation of having been at a place (the walled garden) but at a distance &ldquo;as though in another time and place. Such an event actually occurred form him when the space-time experience of a dream was subsequently rediscovered in a panting by Rubens.&rdquo;
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m71c150dd.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m71c150dd.jpg">
 <figcaption>Allegory, 1983.</figcaption>
 </figure>
 
@@ -186,7 +186,7 @@ The image of the volcano, with its forces and energy moving from an inside to an
 Morris Graves the artist had been at the High School in Beaumont where Stout received his primary and secondary level education. In a small town of 60-70,000 people the presence of the artist was a matter of public interest and awareness, Beaumont had had been enriched by the oil business from the turn of the century 1901, and by 1931-2 a second generation society with its accumulated wealth turned to inspiration in better architecture and patronizing of art.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_5034f9fe.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_5034f9fe.jpg">
 <figcaption>The Sea is all about us, 1984.</figcaption>
 </figure>
 
@@ -195,7 +195,7 @@ Stout was astonished by the work of Graves, and repeated his sense of how exquis
 His return to the past was a way of shoring up the idea of a continuity of identity. He searched for his inner persona by going over the past, and this also was akin to a spiritual exercise.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_715d72b5.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_715d72b5.jpg">
 <figcaption>Argo, Bronze sculpture, 2000.</figcaption>
 </figure>
 
@@ -208,7 +208,7 @@ There is then an abrupt shift, in the interview he refers to his considerable fe
 It wasthe work in which he felt free from the impress of the teachers dicta, he was no longer encumbered by commands to perform, and &lsquo;I had a sensation in the break-up of space.&rsquo; It is there the eruption begins for Stout.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_8057ece.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_8057ece.jpg">
 <figcaption>Growing Hill, 1956. </figcaption>
 </figure>
 
@@ -221,12 +221,12 @@ To consider the decade of the 50&rsquo;s I turn to a document which survives in 
 Then life like the pen moves from goal to goal analyzing nature into a continuum. A part of nature ever growing and ever changing with it &ndash; that is the way I choose to live to paint and let my senses explore the whole world around me. Man mustn&rsquo;t put himself against nature but become a whole and part of it and always inch his way (forward) as does a worm or a bird &ndash; fights his battles when he hits a rock and swims in rain &ndash; and in the simple changes that nature plays each day &ndash; The sky the leaves &ndash; the sky again the dry leaves-the fog-the sharp blue sky the brown limbs the fogged leaves all this changing and needing to be seen and recorded and enjoyed and above all is the first source of inspiration the life of man as he lives is another well of beauty &ndash;death-birth-death again and birth before death and birth after death &ndash; birth from the womb of a dead mother -ah such is our life-not our battles that only the imperfect wage, but the beauty of birth and death that are the most important &ndash; let this be of importance. Tho of less high and beautiful nature the idea of man artist looking at imperfect and society and recording its tragedy and inadequacies is more than just interesting from this point of view I can get a clearer picture of the various positions of various people and myself and of perhaps show some idea of what can be improved upon &ndash; but this to me isn&rsquo;t quite so beautiful an idea as the form &ndash; I have my goals &ndash; to do the most beautiful&rdquo;
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_722b2a3.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_722b2a3.jpg">
 <figcaption>A Cave, 1957.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m6f6ff80f.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m6f6ff80f.jpg">
 <figcaption>Back yard on Calder, 1950.</figcaption>
 </figure>
 
@@ -235,14 +235,14 @@ Within the stumbling syntax, and his running sentences together, one senses the 
 The naturalistic detail points to the labor of nature and not its rich fertility: the slow even plodding sense of a task that will be long in aim and achievement.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m2522ac5d.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m2522ac5d.jpg">
 <figcaption>Yams and yellow onions, 1953.</figcaption>
 </figure>
 
 There is no pantheistic hymn to nature, rather, a complex mix between the social, the personal, and the natural. The phrase &lsquo;let this be of importance&#39;-places his own decision of beginning as the crucial part of the document. His goals are focused in his own work, finding the proper place to put pen on paper.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m5d339690.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m5d339690.jpg">
 <figcaption>Miami River, 1952.</figcaption>
 </figure>
 
@@ -265,19 +265,19 @@ Milling said. Most of them were painted last summer when young Stout was studyin
 Also being shown currently is an exhibit of paintings by M.Stout and Richard Kline of Florida at the Beaumont Art museum. Both are scholarship students at the Chicago Art Institute. The Beaumont youth is the son of Mrs. C.G. Stout of 2404 Avenue. A.&rsquo; In an article by Anna Lipscomb published in The Sunday Enterprise the notice on Stout is exceptionally favorable. The short article is effectively a puff or advance notice on the forthcoming exhibition in the Beaumont art museum for Kline and Stout who are in their first year of study at the Chicago Art Institute. We have some information that Stout: &rdquo;whose studies outside his regular school work, have been under Mrs. William Hoffman, and Denis Mc Carthy of Beaumont, and Jacob Getlar-Smith of New York, &hellip;is regarded as one of the most gifted of young Beaumont artists and the trend of his work is followed with great interest in local art circles.&rdquo; rom contemporary newspaper sources we can then see he held his first one -man show in the museum in the spring of 1952, and exhibited in the Beaumont museum annuals in 1952 and 1953, and was accorded a one-man show in the Beaumont club.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m1e02a091.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m1e02a091.jpg">
 <figcaption>Untitled, 1954.</figcaption>
 </figure>
 
 Lipscomb provides also the additional information that the work of both the artists Richard Stout and Richard Kline was done &ldquo;upon assignment to special problems in painting in the Art Institute is the result of their half year&rsquo;s work and is concerned chiefly with the problem of space.&rdquo;
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_27624e49.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_27624e49.jpg">
 <figcaption>Bright Storm, 1956.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_648637ed.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_648637ed.jpg">
 <figcaption>Pall, 1958.</figcaption>
 </figure>
 
@@ -294,7 +294,7 @@ However the earliest work from the hand of the artist which I have been able to 
 The work of Stout was also advanced by the involvement in the new museum in Beaumont, where he attended painting classes, and drawing lessons. For the early fifties there are sheets of surviving drawings which indicate interest in working from the female model, and this element of figuration can be seen in the strange elongated shapes during the decade, a style of figuration to which he will return in 1983, inspired by looking at statues-He made a sculpture of Santa Claus in gypsum at this date, and contributed to a Mural decoration at the Beaumont art school.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_3af845dc.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_3af845dc.jpg">
 <figcaption>Eden Park, 1953.</figcaption>
 </figure>
 
@@ -305,29 +305,29 @@ His solution to the underlying tension is found through a metaphorical transform
 An very early photograph of Stout, which was published, shows him working on modeling a clay sculpture which is clearly influenced by the figures of Henry Moore &ndash; Mother and child-being created at this date, in the early 50&rsquo;s, and Stout was also keenly aware of the work of Giacometti. He will resume sculpture again 50 years later leaving a small and impressive sequence of works.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_1f9886fa.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_1f9886fa.jpg">
 <figcaption>Argo, 2001.</figcaption>
 </figure>
 
 There is surviving evidence of his work of designing the frontispiece for the school magazine, a design for a bookbinding cover, and his awakening to the work of older artists, especially Maurice Graves and Reginald Marsh.  The interest in the human figure was explored, but would not have its full development until the mid 1980&#39;s. Stout was still looking at landscape and making of his feeling a move to refined abstraction  and allowing himself to be open to outside artistic influences.His teacher Mrs. Hoffman at the Beaumont museum was responsible for transmitting French influences, and he had made his own personal discovery of Giacometti, and suggested that he &lsquo; was always working in response to this&rsquo;.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_180b58ae.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_180b58ae.jpg">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_fa7d80.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_fa7d80.jpg">
 <figcaption>Untitled, 1957.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m50f5471a.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m50f5471a.jpg">
 <figcaption>Seated Nude, 1954.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m4ab556f4.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m4ab556f4.jpg">
 <figcaption>Table edge, 1956.</figcaption>
 </figure>
 
@@ -342,12 +342,12 @@ Thanks to surviving letters from his mother and aunts one can say, that after th
 A letter from Lilian Hayes, with whom he exchanged intimate feelings and shared his youthful ambitions and insecurities, and with whom he discussed art, gives the tone of the support and attention he received &lsquo;I want you to know how well everyone likes your Exhibit. &hellip; Again I want to say how proud of you we are, and I am glad I can say I own early Stout&hellip;&#39; Lillian Hayes, whose mother ran a bookshop, where he discovered publications on modern art and first heard the name Rauschenberg, may in a disingenuous note have stumbled on the mysterious reserve of the young man, noting that she never understood &ldquo;why you paint cool over warm&rdquo;.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_2b6ac5de.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_2b6ac5de.jpg">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m33f41abc.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m33f41abc.jpg">
 <figcaption>The Brick Shed, 1952.</figcaption>
 </figure>
 
@@ -360,7 +360,7 @@ It was the very choice which puzzled Lillian Hayes.
 By 1953 his work was seen as &lsquo;abstract&rsquo; and there is a note in the Beaumont Journal for Friday September 11, 1953 observing; &ldquo;Richard Stout, one of Beaumont&rsquo;s youngest artists for whom many predict a bright future, explains one of his abstract painting to Jane Milling. His work was within a year being purchased and presented to the Beaumont art museum for the permanent collection, a report from May 23 1954 in The Sunday Enterprise illustrates his winning work &lsquo; Windy Spring Day&rsquo; which was purchased by Elizabeth Halliday for $100, which has in its composition a distinct echo Beaumont .In Cincinnati he visited his aunts during the summer and took lessons there.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_5aba55de.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_5aba55de.jpg">
 <figcaption>Untitled, 1952.</figcaption>
 </figure>
 
@@ -369,7 +369,7 @@ The use of water colors allowed him experiment with different relations, the spe
 It was the very choice which puzzled Lillian Haye Stout then it can be seen had developed in an &lsquo;abstract &rsquo;direction before enrolling at the Art Institute of Chicago, where he was to begin studies from September 17th 1953.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m2f9c04d5.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m2f9c04d5.jpg">
 <figcaption>Road, 1956.</figcaption>
 </figure>
 
@@ -378,7 +378,7 @@ In the same month he had gained a strong idea from seeing an exhibition at the M
 Letters from his mother and Lillian Hayes in his early period of study indicate the tough minded concern of which he was the recipient, and the worry about how a young artist could make a living. A letter dated October 1st, from his mother, reports she is suffering from hay fever, indicated a shrewd and practical concern. She asks for his schedules, and offers advice on lodgings, and emphasizes the need for eggs for breakfast, the eating of good food and especially vegetables. She cautions him on the expense of writing checks and emphasizes that he needs to be aware of making money.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m79294471.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m79294471.jpg">
 <figcaption>Remember the Race, 1960.</figcaption>
 </figure>
 
@@ -387,26 +387,26 @@ His mother is already planning his return, and reports that she enjoys going fis
 She then asks bluntly: &ldquo;Have you found a Church to attend yet? You will make lots of friends that way and it may lead to a place to stay also. Look for a Church and go &ndash; don&rsquo;t get out of the habit.&rdquo;  letter from Lilian Hayes on the 18th of the following month, November, sounds a very different note: &ldquo;Dear Desperate One Many people here think of you as the most promising painter since old (inner eye) Graves&hellip;&hellip;.I couldn&rsquo;t understand the way you make your colors neutral by warm over cool and vice-versa..&rdquo; he then suddenly advises Richard against speed and the need for applause: &ldquo;This is the best time to learn your craft &ndash; so you will be able to say what you have to say in the best possible terms.&rdquo; ome months later January 16 1954 she would write in less restrained terms, as the exhibition in which he featured was attracting attendance figures of 125 and more per day; &ldquo;Most of the people spoke favorable of your work and Dick&rsquo;s&hellip; Mrs. Davis found great improvement in your space and color. Parker liked you alley and Dick&rsquo;s door.&rdquo; is aunts in Cincinnati would also write and report that the art teacher Mr. Chedlaw had said &lsquo; that boy will do good things&rsquo;, and offers an interesting response from a Mr. Helwig who is said to like the landscapes &lsquo; and is very interested in &#39;bent space&#39;. The little phrase is crucial to understanding Stout for this period, and also we are fortunate to have some further insight given in an interview to Toni Beauchamp, in 1999(Artlies, Fall 1999 pp.30-35.) Beauchamp noted that Stout had had a very supportive network for his art from the beginning, and offered a brief summary of Stout&rsquo;s early situation, namely, &lsquo; You were born in Beaumont in 1934 to a family who encouraged your interest in the visual arts and music. Although your parents struggled through the depression years, both were working after you were born. They provided private lessons in addition to your public school art classes, and you had a mentor in the Beaumont Art Museum board president.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_180a1472.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_180a1472.jpg">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_4bda6ee0.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_4bda6ee0.jpg">
 <figcaption>Bus Stop at Lincoln Park, 1953.</figcaption>
 </figure>
 
 You won so many art awards (in) your senior year that they subsequently changed the rules, and you were given a full scholarship to the Art Institute of Chicago&rdquo; o which Stout replied: &lsquo; Yes, the three of us on fellowships wound up rooming together-Jack Beal, Dick Kline, and myself&rdquo; He continues &ldquo; Our one really great teacher, Isabel McKinnon studied with Hans Hofmann said that she knew more about what he was trying to teach than anybody else. And all of it had to do with pictorial space. We were all referred to as the &ldquo;space cadets&rdquo;.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m7cf8492d.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m7cf8492d.jpg">
 <figcaption>UNTITLED, 1956</figcaption>
 </figure>
 
 Stout recalls: &ldquo;Mrs. McKinnon was absolutely ruthless. You would come in with a piece of charcoal paper and leave with a piece of charcoal paper that was smudged with only two lines, but it took you three hours to get those lines in just the right place so that everything in between twisted the space in such a way that the pictorial space had a lot of weight on its own.&rdquo; hat one may ask was the inheritance of the teaching of Hofmann, and how should it be understood, also what is meant by speaking of the expressionist commitment in the art of Stout, and more broadly how has Abstract Expressionism often seen as the defining style of post War American art been understood against the specific historical inheritance exemplified in the teaching of Hofmann, and in the reading of Expressionism itself? The notes on which I am drawing, taken from surviving notes of Hofmann&#39;s teaching. They are based on the summer session teaching which began on June the 16th 1947. The notes are made of criticisms which Hofmann offered, and are in no particular sequence. They can be summarized to give an over-arching view of Hofmann&rsquo;s teaching. The dovetailing of what is contained in these notes, with what Stout offered in interview as his own approach, as indicated above, is quite remarkable.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_84ce693.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_84ce693.jpg">
 <figcaption>uNTITLED, 1956.</figcaption>
 </figure>
 
@@ -427,7 +427,7 @@ The notion of the plastic is the term he uses for the rediscovery of the life en
 Plasticity means to bring the picture surface to &lsquo;automatic&rdquo; plastic response. The picture surface answers every plastic animation &lsquo;automatically&rdquo; with an aesthetic equivalent in the opposite direction of the received impulse. Push answers with the corresponding equivalent of Pull, and Pull correspondingly with Push. A plastic animation into the depth is answered with radar like echo out of the depth and vice-versa. Impulse and echo establish two dimensionality with an added dynamic movement.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_7ddbcd17.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_7ddbcd17.jpg">
 <figcaption>December, 1961.</figcaption>
 </figure>
 
@@ -440,7 +440,7 @@ The mirror also (like bad painting) produces only the illusion of &lsquo;natural
 Hofmann again insists on the lively quality of depth, that is not inert, but rather that it is created by pictorial placement combined with color saturation. As experienced in nature, depth is a concrete dynamic, fluctuating, ambiguously dominated by force and counter-force, by movement and counter movement; &lsquo;all of which summarizes into rhythm and counter-rhythm as the quintessence of life experience&#39;.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m269ca0b9.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m269ca0b9.jpg">
 <figcaption>Somewhere, 1958.</figcaption>
 </figure>
 
@@ -491,7 +491,7 @@ Mc Kinnon had also insisted that her students should spend several hours a day w
 So, for example this had been the ideal preparation for the teaching in Chicago with Paul Wiegart who had been a former student of the Bauhaus, and had come under the influence of Itten.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m6fbe7853.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m6fbe7853.jpg">
 <figcaption>Flowers, 1957.</figcaption>
 </figure>
 
@@ -506,7 +506,7 @@ The result was that in his final year he faced almost physical collapse, contrac
 However illness or not he had a garage sale in Beaumont, raised enough money to go to Yale Norfolk for more study, and spent six weeks there. It was not altogether clear that he wanted to live in Texas, and he took to the road.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_101d71b4.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_101d71b4.jpg">
 <figcaption>Maldoror, 1956.</figcaption>
 </figure>
 
@@ -523,14 +523,14 @@ The puzzle remained for him that the sensations and expression were somehow mute
 He had been a willing student, and had acquired skills. More significantly he had understood the limits of an intellectual vision, that is to say he knew from his experience, and his later desire to be a teacher, that teaching was realized in the student&rsquo;s act of learning, and that learning was a process to learn how to learn. If the principle teaching of Wiegart was to know the form, then the relation to the object for the human mind remained simply an achievement of attaining the character of the object, often and only indirectly and from its effects. This could lead to a grasping of the real as a process of construction, making models, whose main satisfaction was intellectual .In such an understanding on could not posit that there was indeed a grasping in intuition, which bypassed the constructivist paradigm.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m69d660a9.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m69d660a9.jpg">
 <figcaption>Above from Below, 1957.</figcaption>
 </figure>
 
 Nevertheless it was only through the material and intellectual realization that the intuition could be crystallized and held as if in suspense, to await the viewer to release its energy and participate with the artist in the original feeling of the creation itself.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m48ffe09d.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m48ffe09d.jpg">
 <figcaption>Love Nest, 1958.</figcaption>
 </figure>
 
@@ -547,7 +547,7 @@ Stout understood that such making kept him in an intense, enclosed space, in whi
 At the same time, during the 60&#39;s, Stout paints in direct response to named artists such as Manet and Van Gogh.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m730df3e3.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m730df3e3.jpg">
 <figcaption>Remembrance, 1961.</figcaption>
 </figure>
 
@@ -560,19 +560,19 @@ Beautiful color became meaningless if it was not bound to a shape, and the use o
 Color then lies on the surface and is not absorbed. For a successful work the color literally had to be woven in the surface. It had been the most insistent point of Hofmann&rsquo;s advice to students.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_1b426f70.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_1b426f70.jpg">
 <figcaption>Untitled, 1961.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_62e0f325.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_62e0f325.jpg">
 <figcaption>After Vincent, 1962.</figcaption>
 </figure>
 
 &ldquo;Living space, created by living means. Should have a perfect 2 dimensionality. If this is destroyed naturalistic space is created. Composition must be in planes &ndash; in color-to recreate an absolutely new flat surface. Composition must be there, no matter how powerful the color, even pure color is not enough, if composition is not there. Modern painters must know the use of planes for a certain purpose. If you have planes in a tonal sense, no negative space is created &ndash; there is no in between planes. Has to be openness in creation brought back to 2 dimensionality. Expansion from the inside makes the work. One must look in a picture, not on it and one must have the sensation as if the painting would explode. Matisse &ndash; through intervals color becomes even more beautiful than it is as color &ndash; e.g. between black and red is a big interval.&rdquo; he literal dualism of the 2 and 3 dimension of reality is taken in this system as the gap between reality and appearance. Through contemplation and spiritual projection there is a development of the sense of space. This projection is making of the carrier a kind of screen in which other material realizations takes on communicative and expressive potential.&quot; (Hofmann&#39;s Teaching Notes, 1947.) Stout in interview given in 2003 spoke of this time as one of an effort to &lsquo;get into the painting&rsquo;.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m9f7a4d4.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m9f7a4d4.jpg">
 <figcaption>Magnolia, 1961.</figcaption>
 </figure>
 
@@ -593,7 +593,7 @@ The artist had to learn to absolutely trust his own feelings and sensation. It w
 One had to reflect on experience itself, and trust that this also showed the main structure of process in nature.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_6165fd0c.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_6165fd0c.jpg">
 <figcaption>Mexico, 1962.</figcaption>
 </figure>
 
@@ -606,7 +606,7 @@ The question of where he had been was itself also a matter of interval.
 The technical summary of instructions in painting, were equally an existential handbook which showed him how he was traversing even wider intervals than between black and red, what kind of unity he himself had become.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m676a3db9.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m676a3db9.jpg">
 <figcaption>Green Moonrise, 1963.</figcaption>
 </figure>
 
@@ -645,12 +645,12 @@ From here Bachelard reads the form which the frenzy takes, as revolt and rebelli
 It is a rebellion against the imposition of patriarchal requirements even in the culture of youth and teaching, the metaphor of violence and desire in Maldoror reflects the cultural brutality and play of power and forces. The source of cruelty in reason and mathematics is not the issue, rather that this is the form in which it eventuates; pure coldness.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_c89ab50.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_c89ab50.jpg">
 <figcaption>Untitled, 1980.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m3fd2b14e.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m3fd2b14e.jpg">
 <figcaption>Gossip, 1980.</figcaption>
 </figure>
 
@@ -661,7 +661,7 @@ What is urgent in the work is that the book invites a life that is unlivable. Ev
 Ultimately the gesture and expression is a muscle of action, of vitality and not reflective acts of consciousness. The universe of Maldoror screams, it is active, and as Bachelard notes&rsquo; energy is an aesthetic&rsquo;.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_dcfac0a.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_dcfac0a.jpg">
 <figcaption>A Rite, 1980.</figcaption>
 </figure>
 
@@ -670,7 +670,7 @@ Thomas McEvilley writing in 2004, agrees that the series of paintings from 1955-
 The choice when made was to be, as we can see in retrospect, a direct commitment to the city of his adoption for the greater part of 5 decades.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_2ffade4.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_2ffade4.jpg">
 <figcaption>Untitled, 1965.</figcaption>
 </figure>
 
@@ -689,7 +689,7 @@ He also had the offer of a gallery, although his first connection with the Cushm
 Stout would comment much later &ldquo;I was still young &ndash; twenty three &ndash; and this was November of 1957 when I arrived&rdquo;.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_3d16a924.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_3d16a924.jpg">
 <figcaption>Crease, 1957.</figcaption>
 </figure>
 
@@ -728,7 +728,7 @@ The gesture of Ernst towards the Ingres figure, via collage creating a mutation 
 As will be seen later it is likely, given the painting of the Fate of Knowledge at the time of the re-working of Oedipus Stout is best seen in terms of the problem of the conflict between experience and his artistic production which itself constituted the constant push and pull of his life: there is also the issue of techniques and his aesthetic judgment, his judgment of taste, which was also his way of living, and not some external resource which could be chosen among a host of possibilities.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_66d17c02.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_66d17c02.jpg">
 <figcaption>Oedipus, 1993.</figcaption>
 </figure>
 
@@ -749,7 +749,7 @@ The relation to nature is gained by an exacting effort, and at the same time, th
 His early stated distaste for the holes of Bonnard, indicate his horror of the void. It is a fear of empty space, of trying to think of space as nothing.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m4362c1ec.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m4362c1ec.jpg">
 <figcaption>The Fate of Knowledge, 1982.</figcaption>
 </figure>
 
@@ -764,7 +764,7 @@ However, to understand his feelings about Houston, one should set the comments t
 He is reported as saying that Houston as a place &lsquo;has no class; the city is just a big, rich one-horse town.&rsquo; Reading through the disjointed quotes Stout is objecting to art being treated as a commodity, that the scene in Houston is and has been fairly stagnant, and attitudes towards the arts convey indifference if not contempt. The dubbing of the Calder Sculpture in front of the Museum of Fine arts as an &lsquo;ugly crab&rsquo; by a local city councilman, or as a &lsquo;hunk of concrete&rsquo;, or the support for the suggestion that wrestling take place in the Music Hall, are cited in support of his view.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_mce7231f.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_mce7231f.jpg">
 <figcaption>Devers Road, 1962.</figcaption>
 </figure>
 
@@ -775,12 +775,12 @@ The following day after the appearance of the article, Stout sent a letter to So
 Yours truly Richard G. Stout, 1213 Bonnie Brae, Houston, Texas, 77006.&rdquo; n terms of his work, one of the most immediate effects of his arrival in Houston is that he leaves off with drawing. The main painting of 1956/7 had been the study Gibraltar exploding and Gibraltar at rest. His description of this as a crucial work has been supported by subsequent criticism. It is pivotal in that it signals a new release of energy for the artist.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m7cf8492d.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m7cf8492d.jpg">
 <figcaption>Untitled 1956.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m25036cf8.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m25036cf8.jpg">
 <figcaption>Blue Gibraltar, 1957.</figcaption>
 </figure>
 
@@ -791,7 +791,7 @@ The Gibraltar work and the Maldoror work, together point to the large turn made 
 The jostle of unlike things was also the shock effect for Stout which he experienced in the city, and the boom-town of Houston had a kind of frenzy and lack of regulation which was felt by him as exhilarating. It is the same jostling and shock that Bergson in a note on a school edition of Lucretius suggests for an atomist account of matter, &ldquo;there is something of incontestable grandeur in the notion of infinity of atoms falling eternally through an immense emptiness&rdquo; (quoted Porter, art.cit. p 217, f.61) The problem for Stout remained that of facing himself and also is to facing what is both fascinating and fearful; to actually address what is not capable of being integrated into his understanding. The issue of the void, or the rejection of the nothing which is only that which is beyond all understanding, or the complete privation of matter, the dissolution of body are options he will not countenance James Porter in his reading of Lucretius shows that in a thorough material understanding of the world, &lsquo;death perfectly replicates what is fearful about Chaos; it maps out a deep metaphysical absence, one the mind refuses to picture. And the reverse is true as well: void conjures up the same horror. One of the important 18th century additions to the discussion of the sublime had been to understand that it was a kind of delightful horror, where both horror and voluptas mingled.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_102e133d.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_102e133d.jpg">
 <figcaption>Untitled, 1956.</figcaption>
 </figure>
 
@@ -802,7 +802,7 @@ The focus is book 6 of Lucretius, and there we have the whole amalgam of catastr
 Thunder and lightning are agents of destruction and death. The hollows in the clouds can be filled with the darkness of Lake Acheron, traditionally said to be bottomless&hellip; and be made into &lsquo;shapes of black fear&rsquo;. This is also possible in the microscopic level. As Burke understood, a scorpion can be as frightening as a raging elephant.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_mb1b790.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_mb1b790.jpg">
 <figcaption>Untitled, 1959.</figcaption>
 </figure>
 
@@ -819,7 +819,7 @@ Atomism threatens commonplace ontology, Porter suggests, &lsquo;what we think ex
 Mansbach, a colleague at the University of Houston, notes in a lecture of 1983 (typescript with corrections in Stout papers,Houston) that &ldquo;Richard has been analyzing pictorially and psychologically the isolated figure since the mid-50&rsquo;s. In fact, the standing figure before us, Maldoror, dates from 1956. What we are encouraged to see here is the artist himself; we are led to recognize the artists&rsquo; &ldquo;self&rdquo;.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m4302dff4.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m4302dff4.jpg">
 <figcaption></figcaption>
 </figure>
 
@@ -834,7 +834,7 @@ He has not fully abandoned figuration, nor has he left behind the youthful ambit
 It will come as no surprise that the subject or motif of Oedipus returns again in the 90&rsquo;s, and continues a secret echo with the earlier works The artist is alone, whether he figures the image of Maldoror, or Oedipus, the forces with which he engages are not just those of an intellectual finding his expression in an external balance through pictorial means, rather in the struggle with paint, and the identification of the sublime and lonely figures whom he has aligned, there is also a frank acknowledgment of the limits that even the greatest art which wants to be a genuine &lsquo;poesis&rsquo; and a real phuysis, nature meets: the facts of material embodiment, the finite which must render without theology, or mythology the meaning of feeling and life for the individual working alone, in a world whose values of consumption lead to a surface without depth, where Stout has always sought and brought into realization a depth which shimmers and gives radiant feeling its surface as a unified picture.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_101d71b4.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_101d71b4.jpg">
 <figcaption>Maldoror, 1956.</figcaption>
 </figure>
 
@@ -867,7 +867,7 @@ To this we can also add the names of other Texan artists, who would eventually b
 What is significant for Stout, and remains throughout his whole work, is how one can have a profound expression as a painter, artists, without religious or mythological themes.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m31c74995.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m31c74995.jpg">
 <figcaption>For Manet, 1963.</figcaption>
 </figure>
 
@@ -944,7 +944,7 @@ In relation to Stout one cannot exclude the artist Tracy if only because of thei
 In Staley&rsquo;s case this was also to include Mexican folk art. Staley is also an example of an artist influenced directly by Dubuffet from the exhibitions of the Mac Agy . The reaching out to mythological sources and the influence of Mexican landscape, and shamanistic magic practice, fuelled by his reading of Jung and Joseph Campbell, The 
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_1f904998.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_1f904998.jpg">
 <figcaption>Tracy Gift Boxes, 1990.</figcaption>
 </figure>
 
@@ -965,7 +965,7 @@ In one case noted by Camfield a work of Stack For Juel dealing with the burial o
 Although including Stack in the cluster with Stout, Camfield is at pains to contrast them when he comes to deal with Stout directly.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_6c71595e.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_6c71595e.jpg">
 <figcaption>UNTITLED, 1963.</figcaption>
 </figure>
 
@@ -990,7 +990,7 @@ Wray constantly allowed in his work a struggle between architectural order and t
 Where works survive one sees the overlap with the approach of Stout and their closeness in this decade, especially in the palette of the warmer canvases which are loaded with generous orange and pinks suffused with radiant yellows and pushing towards the hottest sun-set red. Wray clearly from his architectural training was prepared to jostle an wrestle the field of control in the painting, and turn it into a brusque playground of energetic collisions; thus he&rsquo;d set against vigorously scrawled planes, and as Camfield says, abstract forms in contrast to illusionistic images: lines lying sometimes on the surface suggest overlapping walls or planes, delights in the manipulation of contrasts, there are geometrical shapes pitted against free flowing lines, unmarked planes However there is one drawing in the exhibition of 81 which points to the deeper affinity of the two men, and again it is noted by Camfield, it is a drawing which is thoroughly abstract and the geometric shapes of a Malevich composition &lsquo; containing the strong color tensions of Hans Hofmann .&rdquo; he very beginning of the 60&rsquo;s saw Stout move to landscape. Perhaps we can track it directly in the work whose title announces his Going down to the Sea.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_18432b08.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_18432b08.jpg">
 <figcaption>Wet Moon, 1966.</figcaption>
 </figure>
 
@@ -1001,12 +1001,12 @@ In the 90&rsquo;s to the beginning of the first decade of the 21stcentury we wil
 The return to the sea also took the artist to another palette. Not only the obvious blue and gray, and the white of the wave breaks, but also from observation of the evening descending on the shore, the dark indigo towards violet that can be seen on the shadowing surface, and even the heavy black-red towards sun set. One work landscape with white sky achieved immediate distinction, being purchased by Hallmark Card Inc. and being displayed in the Wildenstein Gallery. The work was acquired for the 5th International Hallmark Art Award at the cost of $250. At the same time as he was awarded this honor the collector Jerome Tannenbaum wrote to Stout in May of 1960 offering help with the purchase of his works, and adding in a letter &lsquo; I know several others, however who appreciate modern canvasses and may be able to arrange something for you&rdquo;. One of the closest surviving accounts which give some indication of his working practice at this time can be found in the details of an interview granted to the Houston Post and published in their issue of May 19th, 1963, where Stout is reported as having stated &ldquo;I work in series of sensation rather than in series of subject matter or style. Therefore my paintings may vary a good deal as to subject or recognizable style. I am most interested in achieving a plus quality in my work by painting beyond the eye and past the mind. I believe that a painting must have a personal element of magic. Among my current favorite painters are Hopper, Bonnard, and Ryder&rdquo;.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m71ef4b8d.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m71ef4b8d.jpg">
 <figcaption>Great Orange Mountain, 1967.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_7c10e3de.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_7c10e3de.jpg">
 <figcaption>UNTITLED,1967.</figcaption>
 </figure>
 
@@ -1025,7 +1025,7 @@ It would be tempting to think of these having symbolic weight. What seems at pla
 The color becomes expressive for itself. Part of the change can be seen in the introduction of ranges of color which are picked for their qualities of warmth and cold, and are not set against each other as oppositional element, rather they are composed through spaces of generous extent and allowed to vibrate and give the surface of the picture greater optical luminosity, the use of tonal values between colors and the balancing out of these relations becomes more and more the aim of the period in question and one can see that part of the inner polarity of the artist is the movement through elemental source, the sea, the sun, the moon, the earth and finding equivalences and correspondences for his visual experience which is then relayed by modulation of interval and broad chromatic harmony against sometimes jagged compositional elements.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_15d492bf.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_15d492bf.jpg">
 <figcaption>UNTITLED, 1967.</figcaption>
 </figure>
 
@@ -1034,7 +1034,7 @@ One suspects that he is alive to the analogy that all composition is about trans
 Another key source for the changes in his world, expressed as color, and dominantly color, is the trips made to Mexico, a passion he shares and discovers with almost all the Texan artists with whom he is in contact, and which became over the years a landscape and refuge, often allowing him re-generate his creative forces in the dryer and less humid heat of Oaxaca.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m7a414e84.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m7a414e84.jpg">
 <figcaption>Near Bander, 1967.</figcaption>
 </figure>
 
@@ -1049,14 +1049,14 @@ What was required for art was to approach the limit of our harmonic vision, of c
 Clarity is color and proportion, and these proportions were made up of various simultaneous measures &lsquo;in an action&rsquo;. The achievement of the painter was to capture the synchromatic movement, the simultaneous visibility of light as color, and its various intensities, and this would be the representation of harmony, and not the harmony of representation.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m5321ed13.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m5321ed13.jpg">
 <figcaption>Moonlight in Mexico,1963.</figcaption>
 </figure>
 
 Paul Klee would take this text of Delaunay from 1912 and translate action synchromique as &lsquo; synchronische Aktion&rsquo;, the translation capturing the inner sense of simultaneity which was important to Delaunay, but misunderstanding the way in which the focus is &lsquo;color&rsquo; and not movement in time, in other words Delaunay is talking about a rhythm which is immediate in its thickness and density, is not some abstract line of duration, it is spatial and occurs in a place of appearance as color, which is simultaneous not on account of temporal succession but on the basis of contrast.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m1fd02596.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m1fd02596.jpg">
 <figcaption>Oaxaca, 1963.</figcaption>
 </figure>
 
@@ -1077,7 +1077,7 @@ In color the message and the medium become one.
 Even when it is well accepted and understood that the relation of the world of painting and objects do not necessarily overlap: there is still a fear associated with pictures, or even images that only appear like a mirage, if they do not describe the so called perceived dimensional world. A rugged skepticism finds itself suspicious of &lsquo;abstraction&rsquo;, and whilst allowing for the translation of sensation, always wants to prioritize the source of the sensation as a realist and describable one, it will not allow for &lsquo;just sensation&rsquo;, and refuses the intricate intertwining of feeling and world always attempting to stress either one or the other.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_410ad839.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_410ad839.jpg">
 <figcaption>Village Creek, 1962.</figcaption>
 </figure>
 
@@ -1086,7 +1086,7 @@ The overview of discussions in artistic and theoretical circles on color studied
 Imdahl starts by considering Kandinsky and considers a text which Kandinsky wrote when he, the artist, was in his late 40&rsquo;s, where he freely reminisced about his development as a painter. Referring to his childhood in Moscow he recalls his, 1965. awareness of the sun setting over the city, and identifies it with an orchestral finale in which the resolution of the symphony sounds in intense living colors. Each color was like an individual song. His memories of childhood travel in Italy is also transmitted through color, although in Venice it is the dark shadows of the water which he recalls, not the high pitch of the open sky which gives so much atmosphere to the city, not the pink, blue and yellows so beloved of Tiepolo.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m6e07f4c4.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m6e07f4c4.jpg">
 <figcaption>Small Exploding Sun, 1966.</figcaption>
 </figure>
 
@@ -1097,7 +1097,7 @@ This kind of synaesthesia had become common at this date, and Scriabin the compo
 Kandinsky felt the gap between what he could feel and what in fact he could achieve in painting. His own colors did not match the trumpet sounds he found in Rembrandt, nor the polychromatic intensities and fusions he found in Wagner&rsquo;s sound world. Part of the problem for the painter was that the transitions of which Wagner was a master in terms of composition, allowed him create a dense mingling and fusing of tonality and texture, which could not be so easily achieved in painting. The very material realization of painting, the medium, the different use of pigments or chemical and synthetic colors, the reactions of priming agents, the effects of light on areas of thinning on the canvas, ongoing chemical reactions, added immensely to the difficulty of creating a planned area of transition in the composition, of arranging with clarity the pay of shape and color free of physical incident.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m381a1fdb.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m381a1fdb.jpg">
 <figcaption>Mexico,1966</figcaption>
 </figure>
 
@@ -1108,7 +1108,7 @@ This was the experience that taught him, as he put it, &lsquo;to live in the pic
 Kandinsky gained a richer sense of the reality of his own paint box and that the strong feeling he had for different colors were &lsquo;a world in the making&rsquo;. At the same time he felt the distance of the colors of nature, and his experience of making, painfully aware that the rankest amateur can have the most exquisite of visual experience, and the amateur savoir the information of the art historian, without the smallest creative demand.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_127287f.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_127287f.jpg">
 <figcaption>Evening Fall, 1966.</figcaption>
 </figure>
 
@@ -1121,7 +1121,7 @@ It was this which Bridget Reiley the 60&rsquo;s op artist found so exciting, tha
 This meant for her that each individual artistic sensibility had a chance to discover a unique means of expression.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m4a495871.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m4a495871.jpg">
 <figcaption>Hamlet, 1966.</figcaption>
 </figure>
 
@@ -1136,7 +1136,7 @@ Yellow and blue are taken by Goethe to point to this underlying fact. They, yell
 For Goethe the tendency to think of black and white as the fundamental opposites, to think of darkness and light as being opposed is a drama that is senses as being played out in matter itself. However even in the mix of gray in this play there is something lifeless, and that the simplest colors arouse a vital impression compared to this ghostly zone:
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_765989bc.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_765989bc.jpg">
 <figcaption>UNTITLED, 1967.</figcaption>
 </figure>
 
@@ -1149,7 +1149,7 @@ The opposition in yellow and blue is of another polar tension to what exists in 
 With yellow and blue their opposition is not contradictory, they are an inclination towards each other, and thus are living. The stimulating energy with which color affects the eye, is not to be confused with the brightness with which white affects it, Goethe gives the example of an orange color surface set against a white one, and makes the claim that this will produce more effect on the eye, not merely because it is brighter, but it has more stimulating energy.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m6af7ca56.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m6af7ca56.jpg">
 <figcaption>The Hudson Valley, 1966.</figcaption>
 </figure>
 
@@ -1170,7 +1170,7 @@ It also must express something that the artist has experienced in nature. Thus, 
 One has to use texture, as a light making medium, a color without texture cannot give you what you want, and so Hofman enjoins: &lsquo; you have to go deeper and deeper.&rdquo; raque&rsquo;s painting, for example, is mostly conditioned in a light-making effort, and Hoffmann adds, anyway, every painting must express a mood, and the mood is a pure sensory affair. &lsquo;Pure color is not what comes from a tube. Evenness when you finally create in painting is sureness. Pure color means you mix it and bring it to one meaning&rdquo;.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m3081964a.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m3081964a.jpg">
 <figcaption>UNTITLED, 1966.</figcaption>
 </figure>
 
@@ -1179,7 +1179,7 @@ For some artists that meaning, which Camfield sees as so distinguishing for the 
 There is no appeal to a divine or transcendental quality, such as &lsquo;the spiritual&rsquo; in Kandinsky, and later Rothko, just &lsquo;things&rsquo; and manipulation, matter and appearance, that arouses in the viewer pleasure or displeasure, the source of the aesthetic judgment, and which ultimately is the basis for how one judges the quality of the work.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m784ac75a.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m784ac75a.jpg">
 <figcaption>Amalfi, 1966.</figcaption>
 </figure>
 
@@ -1190,21 +1190,21 @@ Rather he had through the experience of Mexico and moving through mountains open
 At this date in the early 60&rsquo;s he writes to his aunts to tell them the hours he is working, and indicates that he is able to live from his sales. He indicates that he spends 25 hours a week working in the studio, and that he has some teaching obligations. He has even, he notes to them in correspondence, some promising students.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_4602d0bf.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_4602d0bf.jpg">
 <figcaption>Misty Mountain, 1967.</figcaption>
 </figure>
 
 During this period he would exhibit almost every two years with Meredith Long and Company, and had shows at the New Arts Gallery in Houston in 1959, The Beaumont Museum, Beaumont Texas in 1961, By 1964 he was a consultant for exhibitions and installations in the Museum of Fine arts Houston Texas, and had shown his talents in that direction with the earlier 1960 exhibition he arranged for Chicago Printmakers held at the Contemporary Arts Museum Texas in 1960.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_4392db89.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_4392db89.jpg">
 <figcaption>UNTITLED, 1967. </figcaption>
 </figure>
 
 Turning to the painting we can see that the process of abstraction has led in Stout to a kind of renewal of his own vocation as a painter. He reaches out for simplicity, and working almost with the sensibility of a poster designer he reduces the areas of color to a small select band, even if one finds in close detail that there are often complex hues at various points, he has opted for the most part for a simple, clarified and direct color expression.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m2218e665.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m2218e665.jpg">
 <figcaption>UNTITLED, 1969.</figcaption>
 </figure>
 
@@ -1213,7 +1213,7 @@ By returning to landscape he returned to his earliest artistic efforts, and agai
 In the blue picture of 1961 he has gone back to the very vertical emphasis of his street scene and abstract from his own earlier work, and created the re-entry to landscape, with the sky having no dominant value, but being pushed from under by the strong rectangular form which swells in and out because of the way the relation of blue to black is observed. It is difficult know if there is a temporary structure in the foreground with an extruding roof, or whether this optical effect is created by the meeting of the long horizontal under the swelling box rectangle that pushes into the horizon line, with the sky area left white and neutral in relation to the values and tones in the lower &frac34; of the picture. There is often in the works a deliberate visual ambiguity with regard to shape, as he proceeds with his rapid and obvious highly enjoyable works he will develop a closer and more structured treatment of the design of the picture and even allow his sensation go increasingly towards a mathematical and geometrical expression.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m866c5ac.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m866c5ac.jpg">
 <figcaption>UNTITLED, 1970.</figcaption>
 </figure>
 
@@ -1228,12 +1228,12 @@ With the second sea work of 1960, the treatment is much more abstract and organi
 The interpretative freedom leaves a certain unrest, and in two further studies to do with the sea, Stout returns eventually to a more conservative and structured approach, treating the Study for the Arctic, (1961) with its simple distribution of two kidney shaped areas of black, indicating rock outcroppings, or a projecting coast area, and confining the main color accents to blue, and black and white, with slight touches in the shadow areas of warm tones in brown and violet. In the second of the studies (1961-5) these are left out, and the whole is simple and more structures, using white at the edges of the communicating dark shapes, painted in ivory black, which gives greater weight and volume and avoids the flatness of the earlier study.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m7fd63a33.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m7fd63a33.jpg">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_6e35df95.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_6e35df95.jpg">
 <figcaption>Arctic Sea, 1961.</figcaption>
 </figure>
 
@@ -1244,7 +1244,7 @@ Instead there is an accordion of space, and this usage of planes like folding sc
 The remembrance is a releasing and challenge: to the right the clear structure of a white block shape, and then the overlapping and intercommunicating planes, falling away, like a deck of cards, from green-gray, to gray yellow and a very hot red which juts towards the pink and beige of the upper register.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_34afa6f3.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_34afa6f3.jpg">
 <figcaption>Remember the Race,1961. </figcaption>
 </figure>
 
@@ -1253,7 +1253,7 @@ Between the rectangular planes and the block of white Stout has placed a sluice 
 Mc Evilley has commented on this work, and seen it as indicative for a development which he traces through this decade. He cites the work Remembrance, sometimes called Remember the race, as one which introduces the work Trees past Water, also from 1961, &lsquo; a preoccupation with the triangle, or with accumulations of rectangles, often seen as floating planes, more of less vertical to the picture plane and seeming to accumulate force as they multiply&rdquo;. He relates this to the 1965 work Remember, (1965) in which there is a horizon line in the mid-point of the composition, again with rectangular planes in front, green, orange and white, and rough suggestion of land form at horizon, they are also mostly inkling towards one direction, like canvasses leaning against a wall in the studio, which may be indeed the real prompt of these works-what he calls floating planes, that would later come into prominence &lsquo; bearing both epistemological and metaphysical elements of meaning&rsquo;. The meaning suggested by Mc Evilley is epistemological in that the floating planes can be taken as a series of perceptual screens through which vision is distilled, and metaphysically they may suggest the generation of serial planes of existence. Even if that is not granted, it is at least clear that &lsquo;they suggest an upsurge of complexity within space itself&rdquo;... which increasingly becomes the subject of Stout&rsquo;s work.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_537a4a1.png">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_537a4a1.png">
 <figcaption>Trees past water, 1961.</figcaption>
 </figure>
 
@@ -1268,7 +1268,7 @@ The energy of the vertical which is strongly instantiated by the penetration of 
 Stout is exploring all the ranges of shape and color, and weaves his way from different preoccupations back to flower paintings, for example his treatment of the Magnolia, whose shapes are not unlike the landscape of Gibraltar in its early version.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m9f7a4d4.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m9f7a4d4.jpg">
 <figcaption>Magnolia, 1961.</figcaption>
 </figure>
 
@@ -1279,7 +1279,7 @@ Houston was known as the Magnolia City, and for the South in general, thanks per
 Not only does he turn to flowers but one also finds a virtuoso display in painting in his homage to Van Gogh and Monet.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_439af258.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_439af258.jpg">
 <figcaption>A Memoir, 1962.</figcaption>
 </figure>
 
@@ -1290,7 +1290,7 @@ Whilst one can point as Mc Evilley does to the way elements of the geometry, and
 Taking for example what may be one of the least successful pictures of the decade Time after 
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m789b15c6.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m789b15c6.jpg">
 <figcaption>Time After Time, 1962.</figcaption>
 </figure>
 
@@ -1299,7 +1299,7 @@ The relation of the yellows and blue has become muddied, and the large cosmic eg
 Nevertheless the move to this shape, starts to become a significant exploratory impulse, one can see in the works dealing with Mexico, Oaxaca 1962.with its heavy raw sienna and deep purples and oranges two serrated shapes breaking up the outer edge of the , which can be set against the blinding light and plumb pinks of a picture with the same referent from 1963/6. The dome really makes its first appearance, rather shyly in the lovely spread of the painting from 1962/6 where the large yellow dome and the tiny focal pink spot, and lower register of blue, holds a kind of nostalgic warmth in the mind from Mexico, neither a rising nor a setting sun, not a rising moon, the expanse of the yellow hovers as warmth and light., the vast response to Mexico, leads it seems to the great disc and circular lunar pictures with their surreal light and sometimes almost poisonous suggestion, especially the picture Green Moonrise.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_4297f274.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_4297f274.jpg">
 <figcaption>Dome, 1962.</figcaption>
 </figure>
 
@@ -1308,12 +1308,12 @@ It is also clear that pictures generate new pictorial ideas. There is also the d
 Like the flower pictures of Nolde, which Stout must have known, the colors here are ringing, and have the eye catch of pansies.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_410ad839.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_410ad839.jpg">
 <figcaption>Village Creek, 1962.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m7b01cd3e.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m7b01cd3e.jpg">
 <figcaption>Angel, 1962.</figcaption>
 </figure>
 
@@ -1322,7 +1322,7 @@ This is also a moot point in understanding why Stout does not go to color field 
 Indeed it is in this year one feels his rejection of that option. Not only is it the years which produces the doubling of the motif, but also where the work goes to an abstract limit, Stout literally veers in the other direction and produces a figure entitled Angel, 1963, which is shown in heavy profile, with one eye bulging, and the slight dome of the head and flying banderoles reminiscent of Raphael angels.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m50710a13.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m50710a13.jpg">
 <figcaption>Blue Dome, 1964.</figcaption>
 </figure>
 
@@ -1331,7 +1331,7 @@ The circle with the flying ribbons is literally transformed into the angel figur
 There are many comparisons, negative for the most part, which explains why Stout does not move to &lsquo;color field&rsquo;. His relation to the viewer is very different from the practice that requires immersion on the basis of scale. Stout allows a nearness which also preserves a distance. Rothko it is known used immense scale in order to immerse the viewer in the painting. Robert Hughes points to the very strong demands on the viewer from the works of Barnett Newman and Clyfford Still along with Rothko, &lsquo;the theological side&rsquo; of Abstract Expressionism. ( phrase is from the Australian critic Robert Hughes) Stout does not work with vast fields of unbroken color, at most there is the inclusion of such a field, and small, in the work Remembrance, with the red rectangle, which has almost no admixture in the color. However much Stout works with the contrasts of local and universal color, of cold against warms, of suggestions of the local color especially in the Mexico inspired works, it is not just the hue and luminosity of the paint which is the main offering for the attention of the viewer.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m43a2747.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m43a2747.jpg">
 <figcaption>Geology Transformed, 1966.</figcaption>
 </figure>
 
@@ -1354,24 +1354,24 @@ The choice against color field does not stop the exploration in a much more inti
 This play between warm and cold will be seen in a number of the landscapes of this date, especially in 1963.It is also in this year, 1963 we see the significant ricorso to the work Maldoror and what Mansbach was the first to signal as the creation of compositional means adequate to his own internal paysage. The notion of paysage here is richer in suggestion than landscape, and suggests that notion easier to express in French of a mental space, of an intellectual milieu, that is to say space and place attached to what are not projective psychological effects. One can also see the emergence of a distinctive palette which allows maximum range of mingling, and at the same time allows his shuttling between the warm and the cool.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m74e6649a.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m74e6649a.jpg">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m1fc9f215.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m1fc9f215.jpg">
 <figcaption>Near Longview, 1962.</figcaption>
 </figure>
 
 Eventually it can be seen to consist of a small number of preferred colors; cerulean blue, burnt orange, titanium white, primrose yellow, red oxide and raw Siena. He treats the green, such a Jenkins green as warm and towards the grey, the primrose yellow as colder than the cadmium, the darker blues as cool, with the cerulean as warm. Sometimes he distributes metallic powder in some of the colors to add brilliancy, and through later refinements adds Hansa orange, and begins to explore the use of raw umber.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_48d1c6b3.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_48d1c6b3.jpg">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_43d8b19e.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_43d8b19e.jpg">
 <figcaption>Escarpment, 1964.</figcaption>
 </figure>
 
@@ -1384,7 +1384,7 @@ Further there is no doubt of the influence of Malevich and Suprematism in this l
 One can also point to his biographical situation at this date which has the bachelor painter sitting in a 13 room house, which is being renovated and transformed, and he is occasionally dating girls under relatively strict conditions. This was not for the moment the &lsquo;permissive&rsquo; society of pop fantasists. In 1964 he met Anne Winkler before his first trip to Europe, and within a year they were to marry. Stout later recalls that this was the most marvelous thing to happen in this period. His two close friends of the period were Dick Wray and Michael Tracy, whom he did not meet until he started with the University of Texas, where he was taking a Masters Degree in fine art.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m37ee90f3.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m37ee90f3.jpg">
 <figcaption>UNTITLED, 1967.</figcaption>
 </figure>
 
@@ -1399,7 +1399,7 @@ A friend of mine had an extra bedroom. He gave me a key to his apartment.
 I&rsquo;d let myself in, go to bed, wake up the next morning at five o&rsquo;clock, go down to the Art buildings, let myself in, work until about eight o&rsquo;clock, and then go over to the Tea House on Waller Creek and have breakfast and come back and work. Depending on the schedules the teachers had, I&rsquo;d work until about seven; get back on the freeway and drive back home. Teach class on Wednesday and then go back on Thursday. Our classes were on Tuesday and Thursday and I was at the U of H on Monday and Wednesday.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_255692e0.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_255692e0.jpg">
 <figcaption>The Hudson Valley, 1966.</figcaption>
 </figure>
 
@@ -1416,17 +1416,17 @@ In some way Stout turned away from the almost histrionic expressivism of Tracy, 
 This slow gestation of influences can be seen throughout the work of Stout. The linear, constructivist and the return to drawing was also a bulwark against new impact, and a way of coming to terms with the looming weight of the art historical inheritance which he experienced during his first travels in Europe. Several landscape drawings in large washes of color, and almost monochrome point to the return in Stout. From his earliest days he had sought inspiration in landscape, and it is also clear that when he came to the risk of repeating himself, the danger of over-production in these years he stopped short and took a close examination of his work, this often leads to unexpected risks and new directions.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m74e6649a.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m74e6649a.jpg">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m6af7ca56.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m6af7ca56.jpg">
 <figcaption>The Hudson Valley, 1966.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m7add34bd.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m7add34bd.jpg">
 <figcaption>Night Road New York, 1966.</figcaption>
 </figure>
 
@@ -1435,12 +1435,12 @@ As seen earlier from the 56 abstract work of the road, again there is a work lea
 The treatment of Night Road, with its strange black circle almost at the very dead center of the picture, allows the ground maximum play, and the swelling treatment of the brown Siena has some more gestural and less controlled input than in previous works.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_348f490d.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_348f490d.jpg">
 <figcaption>The great Emblem, 1967.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m4d2e12cb.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m4d2e12cb.jpg">
 <figcaption>On of the Hudson, 1966.</figcaption>
 </figure>
 
@@ -1449,21 +1449,21 @@ This movement seems to give him a breather, and in light of the enormous demands
 The work which he entitles the great Orange Mountain can be taken as a key document in the shift to the more tectonic fascination. The violet maroon sky and the Hansa orange of the pyramid seem on the basis of a simple visual illusion to lie behind the long horizontal of the front plane. Through the 60 Stout has effectively had to deal with the horizontal emphasis that landscape imposes. One can see the forms of the verticals as trees in doubled motif and the introduction of the circular and triangle as ways to rise above the horizontal.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m71ef4b8d.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m71ef4b8d.jpg">
 <figcaption>Great Orange Mountain, 1967.</figcaption>
 </figure>
 
 In the work entitled the Great Emblem,above, the doubling of motif is again seen, and floating above the two inclined triangles is a triform shape which suggests within it a view through the dark ground into a lit world. Again there is a suggestion of landscape in the upper section of the trefoil, however it no longer dominates the composition as a horizontal band, and with that Stout can re-consider the abstract facture of the paintings he is making. An exhibition held in the Houston Gallery in 66 shows something of the diversity of his work at that date, and the jumbling of motif and work with which is engaged. The work Athena has the triangle literally float to the top of the picture and introduces a rich smooth magenta at the upper right corner, which is offset by the loosening of form on the left and below, it, is as if the stability of the figure has been surrendered.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_4392db89.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_4392db89.jpg">
 <figcaption>UNTITLED, 1967.</figcaption>
 </figure>
 
 Stout then in a series of 25 works, exhibited in 1971, and whose sequence can be constructed thanks to the careful work of the curator of the show., return to the surface, to construction to art as being about art. What can be shown is that he is engaged in renewing his own creative sources, and that he is conceptually busy with acts of translation of the space of older pictures as a source of pictorial work for himself.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_62a15d40.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_62a15d40.jpg">
 <figcaption>Athena, 1967.</figcaption>
 </figure>
 
@@ -1490,7 +1490,7 @@ John Palmer Leeper wrote a brief introduction to this show which adverted to the
 Therefore in the eyes of the purist, Mr. Stout&rsquo;s work here might scarcely qualify as drawings, which is the term he prefers.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m737df8b8.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m737df8b8.jpg">
 <figcaption>UNTITLED, 1970.</figcaption>
 </figure>
 
@@ -1499,14 +1499,14 @@ Only the earliest were monochromatic, and subsequent drawings Leeper notes acqui
 Some powdered metallic are blown on and varnished in layers. Papers are dipped in mixtures of enamel and water to achieve marbleized textures.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m344fb533.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m344fb533.jpg">
 <figcaption>UNTITLED, 1970.</figcaption>
 </figure>
 
 The linear structure was firm and for the curator even rigid in it&rsquo;s confining of the sumptuous surfaced areas. He accepted that they were strong, clear and rational, suggesting that they confirm Mr. Stout&rsquo;s belief in the simultaneous existence of freedom and order. The drawings he accepts were formal, calculated and even self conscious.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m3ea9aad6.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m3ea9aad6.jpg">
 <figcaption>UNTITLED, 1971.</figcaption>
 </figure>
 
@@ -1517,12 +1517,12 @@ Stout has made no effort to conceal his sources, and at the same time his approa
 The game of shape and gestalt is played by Stout throughout the period of the 70&rsquo;s, when the linear and search for good gestalt combine. In that sense the synthetic phenomenon of Gris is a relevant template for his work. Further references include those to a Gothic drawing, Malatesta, which is a direct reference to Alberti, Malevich, a drawing from Chatsworth House, and several which analyze the School of Athens by Raphael, there is also influence from tantra mandala art, and Lorenzetti.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m399b1c92.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m399b1c92.jpg">
 <figcaption>UNTITLED, 1971.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m40a2b2a5.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m40a2b2a5.jpg">
 <figcaption>The Green Moon, 1971.</figcaption>
 </figure>
 
@@ -1541,7 +1541,7 @@ Looking at the work from the mid-60&rsquo;s he now only saw catastrophe, landsca
 He found his way out be what can only be described as a kind of self rage. He started he said ho throw things at it, meaning the canvas, and found with a large X across the canvas he was able to experience voids in the corners, and this released again for him a sensuous surface, with forms moving towards the odalisque and the arabesque line which he so admired from Matisse. Later diagonal abstractions were surrendered again to a certain loss of energy and loss of direction. What he had admired in Matisse, the way in which energy released itself from points at which it congregated without every losing the flow of the line, was not possible, within his own idiom, to achieve.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m4c75f5a5.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m4c75f5a5.jpg">
 <figcaption>For Anne, 1971.</figcaption>
 </figure>
 
@@ -1561,7 +1561,7 @@ There was also for Stout a strategy of self-protection which no longer made any 
 By the end of this decade he will not only expose himself but literally tear himself apart in a release of savage imagery and figuration which completely shows the direction this rage and self-disgust will take.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_4c7f1bae.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_4c7f1bae.jpg">
 <figcaption>UNTITLED, 1976.</figcaption>
 </figure>
 
@@ -1572,14 +1572,14 @@ His deepest desire is to go &lsquo;home&rsquo;, to find in life and work the har
 There had clearly been a movement towards color field, from which he resiled in the late 60&rsquo;s, and he made the explicit disavowal that he could never go in the direction of Kenneth Noland. There was clearly in retrospect a feeling in Stout for the work of Arshile Gorky, or Matta. We can see that the color field had really come more into play during his Graduate School work in 66-68.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_b692e8a.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_b692e8a.jpg">
 <figcaption>untitled, 1976.</figcaption>
 </figure>
 
 One can even associate it with the work, directly below, which he entitled Hamlet. The hesitation and doubt in the work is precisely how it refuses to become broad areas of color and monochrome. If the earlier Remembrance could be construed as canvases stacked against a wall, and even a direct response to Gorky, here the rectangle is balanced so precariously, and against sloping and dissolving shapes, that nothing holds the painting together except the play of light and dark, the Helldunkel, which his also the deeper relation of the colors themselves.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m4a495871.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m4a495871.jpg">
 <figcaption>Hamlet, 1966.</figcaption>
 </figure>
 
@@ -1630,7 +1630,7 @@ With the Mexican inspired works, from around 61, the arc-en-ciel, the brown in t
 It is really only in 66 that the compositional lay out breaks with this enclosure, and pushes different shapes against a wall; it is not until the end of the 70&rsquo;s that the composition reverses direction, and large looming eruption moves into the powerful doubling and figurations of the 80&rsquo;s, works which Mansbach and Camfield both comment on, and which remain full of powerful energies, doubling of images, self-consuming, works which in their rapid execution and powerful frontality, show that the play which had gone on over such a long period on the central axis could be abandoned without any loss. He could swim even if the fates did not let him head finally to the shore.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_3cf283ca.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_3cf283ca.jpg">
 <figcaption>Samurai, 1966.</figcaption>
 </figure>
 
@@ -1639,7 +1639,7 @@ Looking at the work entitle Morocco we can take it that he has finally re-concil
 These works were the subject of lively review on their first showing, and it is interesting to see how critical response to Stout in the 70&rsquo;s begins to intensify and generate richer reflections on his work.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_933623d.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_933623d.jpg">
 <figcaption>Morocco, 1973.</figcaption>
 </figure>
 
@@ -1654,7 +1654,7 @@ The principal demand for painter in the current situation, he claimed, was that 
 Crossley noted that the &lsquo;wine dark abstract landscape paintings have established him (Stout) as one of the leading painters in the Southwest, with a score of important exhibitions whilst taking top honors this summer (i.e. 1975) at the second annual Houston Area exhibition (HAE). Stout shows nothing of the anguish which is seizing him in his work, as to its direction, value and meaning, and with the idiomatic raciness of a football coach encouraging the team, he is quoted as saying that the purpose of the 
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m2b224000.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m2b224000.jpg">
 <figcaption>For Heroes, 1975.</figcaption>
 </figure>
 
@@ -1689,7 +1689,7 @@ Some are seen as embarrassingly revealing in their blatant sexual allusions, and
 Here the compositional introduction of the crossed diagonals, release Stout literally from what was becoming, as Moser had noted a kind of dictatorial hardening into too rigid a scheme. It is also possible that Stout was prompted by the critical edge of commentary in 75 to make the move to leave behind these works. From a notice by Mimi Crossely again we know that Stout has been leading as he puts it &lsquo;a double life&rsquo;, winter in Houston and summer in Germany. The last years of the 70&rsquo;s with his teaching, and home acting as a place for young artists to gather, hosted by Stout and his wife Anne. Crossely mentions the Hans Hoffmann show at the MFA, which brought her to a direct acknowledgment of the impact of this work for Stout, and this is really the first critical link made between the two. &lsquo;Deeply influenced by the intensity and emotional impact of Hoffmann and the Abstract Expressionists, Stout&rsquo;s own painting has concentrated on pared down gesture and luminous color.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m217d1733.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m217d1733.jpg">
 <figcaption>The Mountains, 1976.</figcaption>
 </figure>
 
@@ -1708,7 +1708,7 @@ Stout has called these &ldquo;window frame&rsquo; paintings to me, they&rsquo;re
 However with the showing of the Hofmann and almost simultaneously of Richard Stout in Houston, the critical view become more settled, Moser withdrawing her reservations, and seeing the work of Stout as &lsquo;classical abstractionist&rdquo;.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m78448752.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m78448752.jpg">
 <figcaption>Sky, 1977.</figcaption>
 </figure>
 
@@ -1717,12 +1717,12 @@ Whilst one can track though the year 76 the whole effort at freeing up the compo
 Once again it seems the echo of the motif of Gibraltar, the memory of Monte-Sainte Victoire calls the artist way from himself to a deeper encounter one that is outside of him, and in which his subjective doubts can for a while be allayed. By the following year he has turned again, largely under the influence of his European experiences, to a different work, making direct reference to place and subject, and returning from the architectonic to a more descriptive looser treatment.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_16ba852d.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_16ba852d.jpg">
 <figcaption>UNTITLED, 1976.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m6cdaad8a.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m6cdaad8a.jpg">
 <figcaption>Dusseldorf, 1977.</figcaption>
 </figure>
 
@@ -1731,12 +1731,12 @@ The work above, entitled D&uuml;sseldorf indicates the shift at this date.
 Stout has allowed the liquidity of the paint more play. The linear element is absorbed in treads of calligraphic and undulating streaks of paint which move though the pictorial space, with the highly lit surface adding freshness and openness to works in the end of 1978, again one illustration must suffice to indicate this.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m4af4f0c1.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m4af4f0c1.jpg">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_1c7aa55b.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_1c7aa55b.jpg">
 <figcaption>UNTITLED, 1978. </figcaption>
 </figure>
 
@@ -1745,7 +1745,7 @@ There is a suggestion of Derain, in the light simplicity of harbor scenes here, 
 This as shown before often requires him to go back and reach into his own past, or, in this case, to explore in the medium of free and fast flowing acrylic effects which are normally executed in the rapidity of washes of water-color. The subtle grading of the brown, with inflections of dark blue, and the slight layering of the image, give it a more radiant and luminous appearance, without resort to the metallic powders of the beginning of the decade. Stout has become more &lsquo;malerisch&rsquo;, again allowing himself to experience the touch of the paper, and the fluidity of the paint to guide him in his work.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_2f814db6.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_2f814db6.jpg">
 <figcaption>UNTITLED, 1978.</figcaption>
 </figure>
 
@@ -1754,7 +1754,7 @@ In a picture at the very end of the decade, Stout bids a kind of farewell to ear
 The painting contains within it citations of earlier pictures, and what could almost be seen as a parody of the work Remembrance  &ndash; above &ndash;In a remarkable self-referential act he has painted a still life of his own miniaturized pictures, laid on a bed as it were of a sweeping passage of abstraction, pointing to the powerful paradox, that paintings are in paintings, and that art is always capable of being just about itself.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m1746828d.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m1746828d.jpg">
 <figcaption>untitled, 1979.</figcaption>
 </figure>
 
@@ -1769,7 +1769,7 @@ Lyotard gives the following account of the sublime feeling; &lsquo; Here then is
 Lyotard reads Burke and to a lesser degree Kant as having outlined a world of possibilities for artistic experiments in which the avant-gardes would later trace out their paths. Lyotard&rsquo;s reading, as I have argued elsewhere, is closer to Bataille than Burke, arguing as he does that the arts whatever their material press forward by the aesthetic of the sublime in search of intense effects, can and must give up the imitation of models that are merely beautiful, &lsquo; and try out surprising, strange and shocking combinations&rdquo;.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_64502be4.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_64502be4.jpg">
 <figcaption>UNTITLED, 1980.</figcaption>
 </figure>
 
@@ -1784,7 +1784,7 @@ There is also the unexpected fact that Stout at the end of the 70&rsquo;s had pr
 The work of Michael Tracy, the boon-companion of Stout in these years should also be briefly considered. Camfield had included Tracy as a kind of brilliant outsider, or at least had difficulty in placing him in the clusters which he had arranged for his showing of Houston artists in the exhibition of works on paper. This show returned to Houston in 85 during the exhibition Fresh Paint was still up, at the Museum of Fine Art, organized by curators Barbara Rose and Susie Kalil, which had 56 paintings by 44 Houston artists. The term Houston School was in vogue, although everyone disagreed with it, emphasizing rather the stark individualism of the contributors.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_77da37b6.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_77da37b6.jpg">
 <figcaption>Weltschmerz, 1980.</figcaption>
 </figure>
 
@@ -1807,7 +1807,7 @@ Camfield suggest that the intimate, confessional nature of his work was well set
 His expressionist style, theatrical flair and fulsome social criticism, Camfield argued, could be fully seen in his designs for The Death and Trial of Pope Formocus, a play by Joseph Dispenza, dealing with papal violence, intrigue and murder during the 9th century.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_529c5a94.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_529c5a94.jpg">
 <figcaption>Berlin dogs, 1980.</figcaption>
 </figure>
 
@@ -1824,7 +1824,7 @@ The earliest reports on this are from the mid-70&rsquo;s.
 Stout can point back to the 50&rsquo;s and his concern with Maldoror, however it must be the case that the work of Tracy has direct impact, and through the early 80&rsquo;s although from very different religious and social backgrounds, their work and concerns are almost synchronic.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m20ad4be6.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m20ad4be6.jpg">
 <figcaption>Jealousy, 1980.</figcaption>
 </figure>
 
@@ -1837,7 +1837,7 @@ Nietzsche as philosopher/artists made an assessment of what he had sought in his
 He finds that Christian doctrine is only moral and seeks only to be moral&hellip; it is the embodiment of disgust and antipathy for life disguised as the belief in the other, better life. It exhibits a hatred of the world and condemns the emotions, it, Christianity, fear beauty and sensuality. It invents, Christianity, a transcendental world in order to slander this world, it yearns for non-existence. The Dionysian is a fundamentally opposite doctrine with a different valuation of life. The Dionysian involves losing one&rsquo;s way in the cognitive world of appearance &ndash; in a way it is also set against the beautiful illusion of the dream world which is the beautiful, the domain of Apollo.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m7eafa4d5.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m7eafa4d5.jpg">
 <figcaption>Inter Faces Urinam Nascimur (sic), 1980.</figcaption>
 </figure>
 
@@ -1858,7 +1858,7 @@ Thoughts of repulsion towards the absurdity and horror of existence are turned i
 Looked at in terms of his artistic exposure the 80&rsquo;s remains a highly productive social time for Stout. He has a busy time as a Trustee of the Museum of Fine Arts, dealing with an exhibition in 1980 of &lsquo;Te Legends and Symbols of Christmas&rdquo;, in the same year exhibiting work with Meredith Long, which will cease to be his gallery by mid-decade, and Jurgen Schweinbraden in Berlin, and the Gallerie Thommen in Switzerland.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m7eea4b29.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m7eea4b29.jpg">
 <figcaption>A Ritual, 1980.</figcaption>
 </figure>
 
@@ -1869,7 +1869,7 @@ One of the earliest notices of what was taking place in Stout&rsquo;s work, apar
 Julian Schnabel had been a student of Stout, one of his most famous.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m177ee193.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m177ee193.jpg">
 <figcaption>Jesus Dances, 1981.</figcaption>
 </figure>
 
@@ -1882,7 +1882,7 @@ The full scale of the work at this date is extraordinary, with dozens of paintin
 One can of course point to the sense again of a precise reprise in the work of Stout, so that as can be seen in the years 55-7, so again in 80-83, there are the same absorptions by dramatic, symbolic themes, and landscape. What can be seen is that there is a frenzied production in Berlin, which has the energy of Ensor, and Rouault, in its color and directness in which a screaming and howling vehemence, the torture, and 
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m73698c4e.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m73698c4e.jpg">
 <figcaption>Still life with Koln Boys, 1987 </figcaption>
 </figure>
 
@@ -1891,31 +1891,31 @@ In the work Destruction of 1980 &ndash; the key component to this creative outpo
 Whilst the work at this period is very direct, it also still holds Stout&rsquo;s ambiguity and mysterious reserve in place. The immense outpouring of this early 1980&rsquo;s is startling Rage, 1982. and so fully developed, that one thinks the reference to Maldoror from the 50&rsquo;s has been literally lying in waiting, attending on a traumatic experience and event, to unleash its full fury. There is a kind of vengeance and gall in the images that spews at times demonic frenzy and direct unadulterated hatred. The amalgam of religious suggestion and personal even social enervation culminates in a short and intense creation of powerful expressionist images which remain as a kind of strange space in the work of the painter. They are the storm that had been gathering. They place him, as will be indicated later, in the ranks of his best European contemporaries. The work below, Rage, expresses something of the intensity of his feelings at this time.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_6502342a.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_6502342a.jpg">
 <figcaption>Sin, 1981.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_125abef.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_125abef.jpg">
 <figcaption>Rage, 1982.</figcaption>
 </figure>
 
 The Fate of Knowledge,(above) is suggestive of the deepest layers of Stout&rsquo;s crisis, where indeed he has to reach deep into this own past and with a figure whose supplicating gaze and inverted anatomical crouch, with the profiling and reverse direction of the foot, saturated in burgundy reds and almost given a disguised skin of pale lilac and lavender and light blue, pleading with a long upright figure whose stance and shape show reference to Cameroon figures in the work of Kirchner, early expressionist theme, the long distended limbs and the indifference of the erect figure, suggest what can be seen in all the doubling and pairing of the period: a suggestion of linkage and separation, of supplication and rejection, of deep psychological ambiguity.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_8682bd5.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_8682bd5.jpg">
 <figcaption>Lust, 1982.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m70596739.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m70596739.jpg">
 <figcaption>Supplication, 1982.</figcaption>
 </figure>
 
 A key document to consider in this period is The Gulf Stream of 84. It is directly related to torso studies of the date, and the work entitled Grief.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m59185809.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m59185809.jpg">
 <figcaption>A Grief, 1983.</figcaption>
 </figure>
 
@@ -1932,7 +1932,7 @@ One detects a scenographic illusion; the banana leafed shape at the lower left c
 One small detail which indicates the enormous composition cunning of the painter, and the way in which he deploys his play of shape and color, is the way the treatment of the head is used to pull in the horizon line, which is then picked up, again, on the shoulder: all the horizontals in the picture become limits for other forms and start to create depth, upon depth in varied places in the picture. After considerable attention one can see the figure crouched in the boat, the spume of the sea about to tilt over the side of the raft/barque, and the enclosing balance created by the simple treatment of the lower area color which moves between a dark blue, edged with black, and violet purple richness, a compression of the darkening sea color which adds to the struggle of the isolated figure, naked and exposed.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m370d802c.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m370d802c.jpg">
 <figcaption>The Gulf Stream, 1984.</figcaption>
 </figure>
 
@@ -1941,7 +1941,7 @@ In the figure of Janus the study of expressive figurative form is also displayed
 One can see at the right of this picture immediately the bio-morphic forms that Arp had made into a major study in his work. . The picture is dated at 84, and is another key document in that the figurative, landscape and the architectural are joined in what is also a strangely concocted, surreal illusion of a screen which is a picture or a window, again immense clarity and ambiguity in the picture.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m75867ce8.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m75867ce8.jpg">
 <figcaption>Janus, 1984.</figcaption>
 </figure>
 
@@ -1962,12 +1962,12 @@ Schnabel&rsquo;s Untitled for Alan Moss, was exhibited in the Zeitgeist show.(p.
 Patricia Johnson, who as gallerist and critic was becoming a powerful voice in the Houston art world, and who also worked as a journalist for the Houston Chronicle, took the work from 1984 as a &lsquo;stunning revelation of a mystical self&rdquo;.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m2a2f7654.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m2a2f7654.jpg">
 <figcaption>Still Life in Amsterdam, 1987.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m442e75a0.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m442e75a0.jpg">
 <figcaption>The River and the Sea, 1984.</figcaption>
 </figure>
 
@@ -1976,7 +1976,7 @@ With what almost seems in retrospect a strange symmetry, by the mid decade, as h
 Two concluding observations for the 80&rsquo;s can be made. The power of the artists search also continued to find himself in other subjects and moods of expression. In a sequence of he was still dealing with the problematics that had preoccupied Juan Gris, and he turned to painting still lives. There may be a subtle reminiscence towards the wonderful, edible, Monet of 1882, Les Galettes, although it should be said that Stout&rsquo;s reverting to still life painting, was not just a whimsical and extravagant display of painterly brio, just at the time when he was being nominated as the older and significant source of abstractionist art and sensibility, from the 1987 show in University of Houston. It was a commission, from Martha Terell, for a food show in New York, and it was gladly accepted by Stout, who in interview said that he frankly enjoyed the return to realism, the verisimilitude. This move to realism would be intensified in the next decade, but it would be a realism of relations and feeling as much as any descriptive mimesis.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m634b2e51.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m634b2e51.jpg">
 <figcaption>Bologna, 1988.</figcaption>
 </figure>
 
@@ -1987,12 +1987,12 @@ The documents are related to his wife, letters addressed to her and family matte
 This makes of the work a poignant memento mori, as he remains to this day a widower.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_11986801.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_11986801.jpg">
 <figcaption>Bon Voyage, 1990.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_64033d4b.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_64033d4b.jpg">
 <figcaption>Apartment next Door, 1990.</figcaption>
 </figure>
 
@@ -2005,28 +2005,28 @@ The precisionist rendering and the individualized objects became of greater rele
 His way of holding on, was just that, to notice letters left behind, personal belonging, and in some ways his melancholy was able to concentrate on these tiny objects as points of remembrance for her, whose presence he would invoke and hold in these pictures more than in any other form of expression.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m56ab46cb.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m56ab46cb.jpg">
 <figcaption>Rock and Roll, 1989.</figcaption>
 </figure>
 
 In 88 he did a series of monoprints, and was also busy paintings houses that had once been of his uncle, or other family mementoes. There is the painting Belvedere, (1988), Uncle Gus&rsquo;s House(1988) Yaddo (1988/9), Brun Street (1988), Deaborn St. (1988) and the charming vignette Bay House(1988)
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m6008a2d5.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m6008a2d5.jpg">
 <figcaption>Bay House, 1988.</figcaption>
 </figure>
 
 His life now faced the journey again, and more alone than he could ever have imagined.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_1aac308d.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_1aac308d.jpg">
 <figcaption>A Boy by the Sea, 1983.</figcaption>
 </figure>
 
 The importance of the 1960 purchase of the house became more and more pronounced after the death of his wife, 1984. He had painted the work Embrace in the early Fall of 1984, just three months before his wife&rsquo;s sudden death. He returned to work in the late Spring 85.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_3f7dbed6.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_3f7dbed6.jpg">
 <figcaption>Embrace, 1984.</figcaption>
 </figure>
 
@@ -2035,22 +2035,22 @@ The motif of the torso had pre-occupied him from museum visits to Berlin, Munich
 His treatment of the torso was as a memento mori, it was also a box within a box, of memory, of the play of shape and shadow, of pictures included in pictures, of all the things said and unsaid, because every relationship could only be a fragment of the image of love it held as an ideal. We can see studies based on classical kouros figures, and Roman and Greek statuary in works especially at this date, for example &ndash; such as Dilemma of 1983, emerges from these studies; Significantly when Stout had purchased a house it was a matter of note in the Houston Chronicle to which an article was devoted. It is worth detailing simply because it illustrates something of profound importance in considering the life of the artist that his relations to place and objects and the elements of his work are of as much significance as any other &lsquo;psychological&rsquo; event that takes place. The emphatic search for means to express his world is always concretely situated in the rooms he inhabits, the places he loves, as much as his relations with people. In some senses this has led to a mysterious detachment in the artist&rsquo;s life. Although one can speak of his artistic involvements in Houston, he would modestly eschew the title of founder of the Houston School.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_4da7517c.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_4da7517c.jpg">
 <figcaption>Kouros, 1984.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_193c017a.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_193c017a.jpg">
 <figcaption>The burden of Christopher, 1984.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_53552957.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_53552957.jpg">
 <figcaption>Victory, 1984.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m5e4b4709.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m5e4b4709.jpg">
 <figcaption>Yaddo, 1988.</figcaption>
 </figure>
 
@@ -2065,33 +2065,33 @@ One can see that he also wants to stabilize his memories, and find that as he do
 Memory and deep humanity of the acceptance of nature and the immensity of the life task and the artistic struggle are balanced in works of great beauty, power and depth. It is a majestic unfolding which continues apace over almost un-interrupted period into the next century.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m4765b93a.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m4765b93a.jpg">
 <figcaption>Mother Love, 1991</figcaption>
 </figure>
 
 Or works such as Apartment next door (1990) The Beds (1990), A Wicker Chair (1991) When I was Young (1991) Sunday Morning (1993), My Father&rsquo;s Room (1993), Northern Light (1994) Private Conclusion (1994) Chair at Dicks (1998) can be set against works often at parallel times which point out, not only to the seascape, and the night, but to the mysterious world in which the horizon is no longer the unreachable and fearful; take for example Imposed Memories (1991) On the bay, illustrated below, (91) Night Storm (91) Evening (91) the powerful and enigmatic Looking North (96) and the mysteriously evocative night Sailing (97) Night Sightings (97) The Light of Providence (97/) and the truly magnificent and utterly captivating sequences of paintings throughout that year, The Citadel (97) East Wall (97) and Beacon(97) Perhaps the work entitled Haven (98) is where like the prayer of the poet Hopkins he has found a place where.....
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_6cc35a96.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_6cc35a96.jpg">
 <figcaption>The Beds, 1990.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_140aa65a.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_140aa65a.jpg">
 <figcaption>Sunday Morning, 1993.</figcaption>
 </figure>
 
 Spring not fails/ Far from the sharp and sided hail/ and where a few breezes blow&hellip;&hellip; where ships are in the havens dumb/ and out from the swing of the sea&hellip;
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_53289cfe.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_53289cfe.jpg">
 <figcaption>On the Bay, 1991.</figcaption>
 </figure>
 
 The register of place and the deeper relation to the memory of his own past orient the artist to what will become one of the greatest subjects of his work, the space of rooms, the interiors of his own habitation which over the decades will release images of exceptional strength and assurance. There is some significance in the reading of Bachelard for the whole work of Stout, in that the role of the imagination and the elements become a form of oneiric reverie. In speaking of the resources of a phenomenological enquiry then, following Bachelard, one can ask: How is it we inhabit our vital space, how is it we take root day by day in &lsquo;our corner of the world&rdquo;? It can be argued that this question is the fundamental driving force in the work of Stout at this point.. Night Storm below points outward and marks a corner of view. point.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_67e3bd69.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_67e3bd69.jpg">
 <figcaption>My Son, 1991.</figcaption>
 </figure>
 
@@ -2100,7 +2100,7 @@ He has found his corner of the world, and it is a house in Houston. From there h
 The house is not de facto lived as a psychological document; the Wunderkammer of traces and tracks that signify identity. Rather the experience of the house is the very means of thoughts and dreams. It is an incubator for reverie, and always goes beyond itself, it seeks as it were to find a deeper stand of the imagination which alone unites the powers of reason and understanding, and points to a more fundamental &lsquo;image&rsquo; for the artist himself, that of inhabiting. This can lead to concrete awareness of the impersonal, the not-I, which actually shelters the day to day turmoil of living.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_32b95775.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_32b95775.jpg">
 <figcaption>Wicker Chair, 1991.</figcaption>
 </figure>
 
@@ -2113,7 +2113,7 @@ This is not a Jungian sense of archetype; rather there is no other way to figure
 What comes to dwell in a new house is an entire past.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_117ced7b.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_117ced7b.jpg">
 <figcaption></figcaption>
 </figure>
 
@@ -2122,12 +2122,12 @@ The house is the greatest power of integration for thoughts, memories and dreams
 Without it we would be dispersed beings. Much of the contemporary problem of living is that the forces of distraction and dispersal keep us from the experience of being at home, at peace, and deprive us of the protection and solitary power of image that allows us a sense of well-being, because such a sense is the adequate equivalence of the primal image that makes the material imagination have its roots and interconnectivity with all of place, and ultimately of world itself. The enigma of the house is the capacity to disperse and integrate. The world is, as it were, sheltered in the individual imagination, and this gives it its awesome responsibility, because it can also imagine itself as meaningless and a mere speck in the vastness of material being.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_32b95775.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_32b95775.jpg">
 <figcaption>Wicker Chair, 1991.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m528b7330.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m528b7330.jpg">
 <figcaption>When I was young, 1991.</figcaption>
 </figure>
 
@@ -2136,7 +2136,7 @@ Value, fact, become enclosed and coalesced in this very protection and the value
 When questions are asked about the largeness or smallness of the rooms we inhabited, their warmth, how they were lit, the way in which one could achieve silence and sleep, then it is the case that time cease for memory. We cannot, according to Bachelard&rsquo;s argument, record concrete duration, all we could do, at best, is think of it as line of abstract time, think of time as an abstract t line without thickness. What is urgent for memory is the localization of spaces, and this is where the knowledge of intimacy emerges.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m163872c0.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m163872c0.jpg">
 <figcaption>Living together, 1992.</figcaption>
 </figure>
 
@@ -2147,14 +2147,14 @@ The paintings of Stout, however, although tied to his own individual memories ac
 It can be argues that the situation of our dreams so shared belongs inevitably to the function of poesis, of the poetic making. The house one is born in is more than an embodiment of home, it is also the embodiment of dreams, and furnishes us with both dispersed images, and a &lsquo;body of images&rsquo; at the same time. It could not be the case that the room one has lived in could be expressed by merely drawing a plan of this room, rather there is a more complex retrieval, namely that we live in memory what we once inhabited as dream. There is a double face to this, since the very body of memories gives proofs on one hand, or illusions on the other, of stability.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_71d14dfb.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_71d14dfb.jpg">
 <figcaption>My father&#39;s room, 1993.</figcaption>
 </figure>
 
 Stout faces this directly. He faces it by grasping not a formal vocabulary that is available for architectural forms or typologies, rather he brings order into the various images, of concretion and dispersal, by understanding how this is fundamentally available as two main connecting themes, one, the vertical being of the house, that is the house imagined as a vertical being, and secondly the house imagined as a concentrated being. Thus the two themes signaled by Bachelard, verticality and centrality can be seen in the paintings of the 60&rsquo;s to bring Stout to new compositional and formal resources. He will buttress the feelings of insecurity and the darker, wilder explosions of some of the work of the 50&rsquo;s by taking on directly the polarities of what is imaged in the vertical, which is also that between darkness and clarity. As will be seen his first formal move will be to double the vertical and release as it were the fear of dying as geometry of forms.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_5583867d.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_5583867d.jpg">
 <figcaption>Nocturne, 1994.</figcaption>
 </figure>
 
@@ -2167,7 +2167,7 @@ What is significant about the example is that it is redolent with the solitude w
 The image of the hut seems to be there the tap-root of the function of inhabiting, and so when we are lost in darkness and see a distant glimmer of light, Bachelard asks: &lsquo; Who does not dream of thatched cottage, or to go more deeply still into legend, of a hermit&rsquo;s hut&rdquo;?
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_506ccade.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_506ccade.jpg">
 <figcaption>Northern Light, 1994.</figcaption>
 </figure>
 
@@ -2178,7 +2178,7 @@ The image possesses the felicity of intense poverty to which the riches of the w
 However the image also has an unfathomable oneiric depth, to which the personal past adds special color. Perhaps it is not until late in life, Bachelard says, we really revere an image, and thus in the realm of absolute imagination we grow young late in life, as we live in paradise we have lost through the reality of the image, of a sublimation beyond passion.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_cca73fc.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_cca73fc.jpg">
 <figcaption>Looking North, 1996.</figcaption>
 </figure>
 
@@ -2197,14 +2197,14 @@ Mc Evilley rejects this reading not in terms of the fact that Stout as shown abo
 For Mc Evilley what is happening in the work of Stout is an ineluctable move to transcendence, and to the monumental sublime of the later work. He will track the motif of the desolate, emptied rooms, and the relation to what could be termed dystopic space as the direction to which the works of Stout lead.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m582a03eb.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m582a03eb.jpg">
 <figcaption>Courtyard at La Luz, 1996.</figcaption>
 </figure>
 
 The tension which Bachelard points to show that there is also something contested in topoanalysis that the geometrical object of the house ought to resist metaphors that welcome the human body and the soul. He adds that once there is a proposal of intimacy, transposition takes place immediately to the human plane, and independently of all rationality the dream world beckons. This dialectic is never resolved. Further it goes through every relation, not only between the geometrical object and the human plane of intimacy, but for the terrestrial house and the areal surround, the relation of light to wind. In the main the philosopher will argue that the different characteristics of the house &lsquo;it is inclined to be hospitable to fragmentary dialectics&rsquo;. Houses can be as weightless as dreams. There is something recoverable uniquely in the mellowness and intimacy of the inner life which is figured as such an entity. It is not just that the world of the interior is construed as a place of shelter, somehow also in its arrangement, it keeps death at bay.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_23693abe.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_23693abe.jpg">
 <figcaption>TheGulf Stream, 1996.</figcaption>
 </figure>
 
@@ -2217,7 +2217,7 @@ The dream house also defies geometry. This first emphasis on centrality and vert
 Thus the hospitality to dialectic fragments also has another dimension, namely that the imagination seeks ineluctably &lsquo;primal images&rsquo;, so that even where there is a rational paradox something can be communicated that comes not only from the clash of the geometrical and the intimiste, but also sends one in another direction. Thus, a nest which is open to the sky and very fragile, still communicates an image of security, and despite being a precarious thing sets us dreaming of stability and protection. If one thinks of the nest and the house, it is not to create an analogy, rather it is to seize what thinking of both gains for one&rsquo;s awareness, and this Bachelard names that neither know anything of &lsquo;the hostility of the world&rsquo;.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_28b24f35.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_28b24f35.jpg">
 <figcaption>Last Light, 1996.</figcaption>
 </figure>
 
@@ -2230,14 +2230,14 @@ One needs then to turn also to a consideration of the space of the image.
 What can be seen a red line running through all the work of Stout from his earliest surviving works to the very latest sculptures and paintings, is the sense of being one who needs to return home. However like the dialectical images of which Bachelard speaks, the problem of the image of past spaces and places, of home to return to is defied by the singularity of his experience. There is no home to go to, literally, since the past will never be the same. The return can only be the magical illusion of the painting, which miniaturizes the space of the imagination, and hopes to release it to an immeasurable non-place, or have it dissolve into the horizon, like a dying into the light, which remains a move to start again.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_2539ed02.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_2539ed02.jpg">
 <figcaption>Cactus at Jesus Maria, 1997.</figcaption>
 </figure>
 
 It is clear that the lived space of the daydreamer who wants to return, home, is not of geometry, or, it already includes geometry and dreams beyond it. Images cannot be measured, and even when they indicate space they constantly change in size, they are always a suggestions beyond themselves, because they depend on the outside from which they are viewed as much as what they show within, and share the fate of all visible reality, namely it cannot be fully grasped in any one view, or in any accumulation of views, there is always what remains invisible, and the illusion of depth that needs to be salvaged.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m39b65045.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m39b65045.jpg">
 <figcaption>The Light of Providence, 1997.</figcaption>
 </figure>
 
@@ -2246,28 +2246,28 @@ In the perplexing dialectic examined by Bachelard, and which is so much the work
 The solitude is not a self enclosed isolatorium, a mutant bubble, but communicates with other solitudes, and is deepened in solitude through the profound alliance of the material imagination and the daydream. Bachelard adds to this another crucial observation, which is moot for the entire later expansion in the work of Stout, namely, that even if it is true that reverie, the daydream can feed on all kinds of sights, there is a natural inclination to contemplate &lsquo;grandeur&rsquo;. One could say, he argues, that immensity is a philosophical category of daydream, that immensity belongs to its &lsquo;sublimation&rsquo;, in that it transports the dreamer outside the immediate world to a world that bears the mark of infinity. However the characteristic of daydreaming is that we do not see it start, which is to say it flees the object nearby and is far away, in that sense the one who is on the way finds his idea of return and home when he is &lsquo;away&rsquo;, elsewhere, in the space of elsewhere.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_24a65c64.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_24a65c64.jpg">
 <figcaption>Night Sailing, 1997.</figcaption>
 </figure>
 
 The question of how we could analyze the impressions and images of immensity, and what indeed immensity contributes to an image &ndash; one can think of the whole work of the 1990&rsquo;s in Stouts&rsquo; oeuvre as the decade of the immense-brings the viewer again to the critical paradox that has constantly seeded the work of the artist, that there is a richly productive imagining consciousness, and that the works of art created are the result of this existential feeling of the imagining being. The immensity is within the self alone.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m7ea59f7e.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m7ea59f7e.jpg">
 <figcaption>UNTITLED, 1997.</figcaption>
 </figure>
 
 There is a consciousness of enlargement. All the dream of the expansion of being is arrested by the facts of life is curbed and cautioned from emerging. Given the inner immensity the real trigger is being alone. Thus the spaces and interiors of Stout require absence of human figuration, and the room is given again to the imagination as the place of this interior immensity. In that sense the tension of the abstraction and figuration, is resolved in the dialectic images of absence and oblivion with its open architectural reference.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_7d580991.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_7d580991.jpg">
 <figcaption>The Citadel,1997.</figcaption>
 </figure>
 
 Certain expressions of the visible world can only be adequately suggested through such immensity, even if the scale of presentation is always miniature, in other words no scale model, can avoid also the same drama of abstraction and geometry, and even the three dimensionality only facilitates an awareness of experience through movement .Perhaps this is what Baudelaire understands by Correspondences, when different impressions of the senses enter into correspondence. Bachelard comments that in finding the correspondence &lsquo;the sense of existence is immensely increased&rsquo;. This suggests that we discover the immensity in the intimate domain is intensity, and this is an intensity of being, and the intensity of being that is evolving in a vast perspective of intimate immensity. The principle of &lsquo;correspondences&rsquo; then is to receive the immensity of the world, which they transform into the intensity of our intimate being, and thus is instituted transaction between two kinds of grandeur. Imposed memories below also is a direct homage to the great 19th century paintings of Martin Johnson Heade(1819-1904) such as Thunderstorm on Narragansett Bay of 1868, now in the Amon Carter Museum, Forth Worth, Texas.
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_5914cb8.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_5914cb8.jpg">
 <figcaption>Rollover, 1998.</figcaption>
 </figure>
 
@@ -2278,22 +2278,22 @@ Time has to be attached to things for them to be real. Therefore the work of Sto
 He lives though the decade with all the rhythm of aggression and conciliation, love of the self and love of the other, and keeps always in mind the possible childhood which opens a dream of an indefinite future. But it is the imagining which is &lsquo;away&rsquo;, so the home, and the return are also a longing that needs material imagination, and this shows itself in the explosive joy of instants of decisions. Here is where the access to the poetic dynamic of the imagination itself is rooted. It is the penetration to the material results which gives the dreaming its center. All the poetic images of Stout, so many of them suggested often retrospectively in the titles of his works, discloses that perception and imagining are also as opposed and paradoxically antithetical as presence and absence. Thus the struggle for the mastery of the largest abstract forms in this decade, the movement to the shaping of an immense outer world of space, framing a decade of unremitting work, can be set against the theme &lsquo;nostos&rsquo; which ends somehow when in the early 2000&rsquo;s he calls some sculptures Ithaca. He has come home, to where as Bachelard says &lsquo;in this activity of poetic spatiality that goes from deep intimacy to infinite extent, united in an identical expansion, one feels grandeur welling up. As Rilke said, &ldquo;Through every human being, unique space, intimate space, opens up to the world.&quot;
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m58eebd54.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m58eebd54.jpg">
 <figcaption>A Haven, 1998.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_m5a6378c7.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_m5a6378c7.jpg">
 <figcaption>Bridge, 1999.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_38237ef0.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_38237ef0.jpg">
 <figcaption>Citadel, 2003.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/stout/Richard%20Stou4sw_html_36aa82da.jpg">
+<img src="https://storage.googleapis.com/sammeltassen.nl/patrick-healy/stout/Richard-Stou4sw_html_36aa82da.jpg">
 <figcaption>UNTITLED, 2005.</figcaption>
 </figure>
 
