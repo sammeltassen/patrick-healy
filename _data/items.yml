@@ -1,3 +1,14 @@
+- title: Response
+  id: modi-operandi
+  kind: [essay]
+  year: 2022
+  editors: [Negar Sanaan Bensi]
+  booktitle: "Modi Operandi #03. Territory and trans-gression: an architecture of failure"
+  added: 2022-02-11
+  files:
+  links:
+    - url: "https://www.modi-operandi.space/n03/reflections/reflection/"
+      title: Modi Operandi
 - title: "The Brick of Destiny: When Gods Were Architects"
   id: brickofdestiny
   kind: [lecture]
