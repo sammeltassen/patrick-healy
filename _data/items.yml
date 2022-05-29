@@ -1,3 +1,15 @@
+- title: Everything Felt Must Return to the Surface / The Thinking Eye / Hoffmann à Aix
+  id: schnitt
+  kind: [essay]
+  year: 2022
+  editors: [Oran Hoffmann]
+  booktitle: Schnitt
+  added: 2022-05-29
+  files:
+    - filename: "Hoffmann,_Oran_-_Schnitt.pdf"
+      kind: "Full book"
+      pages: 122
+      language: [en]
 - title: Response
   id: modi-operandi
   kind: [essay]
@@ -842,6 +854,22 @@
       kind: "Full article"
       pages: 22
       language: [en]
+- title: "An Alphabet of Space. The Dutch Pavilion, Hanover"
+  extra: On the work of Johannes Schwartz
+  booktitle: "High Rise / Down Fall"
+  editors: [Johannes Schwartz]
+  id: alphabet-of-space
+  kind: [essay]
+  year: 2005
+  added: 2022-05-29
+  files:
+    - filename: "Healy,_Patrick_-_An_Alphabet_of_Space.pdf"
+      kind: "Full article"
+      pages: 3
+      language: [en]
+  links:
+    - url: "https://johannesschwartz.com/high-rise/"
+      title: Johannes Schwartz – High Series
 - title: "Hilarius Hofstede and Natural Born History"
   id: naturalbornhistory
   kind: [essay]
