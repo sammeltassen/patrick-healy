@@ -27,8 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Selected writings of Patrick Healy, writer, philosopher.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.patrick-healy.com" # the base hostname & protocol for your site, e.g. http://example.com
-gcs_prefix: "https://storage.googleapis.com/storage/v1/b/sammeltassen.nl/o/patrick-healy%2F"
-gcs_postfix: "?alt=media"
+gcs_prefix: "https://storage.googleapis.com/sammeltassen.nl/patrick-healy/"
 collections:
   articles:
     output: true
