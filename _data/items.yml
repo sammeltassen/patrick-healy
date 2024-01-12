@@ -1,3 +1,16 @@
+- title: Passing Stranger. Patrick Healy – Recent Paintings
+  publisher: "WANDU Café"
+  city: Amsterdam
+  id: passing-stranger
+  kind: [exhibition]
+  year: 2024
+  added: 2024-01-12
+  extra: "21 January – 21 February 2024"
+  files:
+    - filename: "Healy,_Patrick_-_Exhibition_Invite_Passing_Stranger.pdf"
+      kind: "Invitation"
+      pages: 2
+      language: [en]
 - title: Everything Felt Must Return to the Surface / The Thinking Eye / Hoffmann à Aix
   id: schnitt
   kind: [essay]
