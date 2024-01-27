@@ -6,6 +6,9 @@
   year: 2024
   added: 2024-01-12
   extra: "21 January – 21 February 2024"
+  links:
+    - url: "/articles/wandu"
+      title: "Opening speech Hilarius Hofstede"
   files:
     - filename: "Healy,_Patrick_-_Exhibition_Invite_Passing_Stranger.pdf"
       kind: "Invitation"
@@ -42,8 +45,8 @@
   city: "TU Delft"
   added: 2021-11-26
   extra: "Farewell lecture, available on YouTube"
-  files: 
-  links: 
+  files:
+  links:
     - url: "http://www.youtube.com/watch?v=RLdloKqiu9c"
       title: "BK Talks: Farewell Patrick Healy: The Brick of Destiny: when Gods were Architects"
 - title: "De Markies van Water (reading in 7 parts)"
@@ -55,7 +58,7 @@
   added: 2021-10-20
   extra: "Available on YouTube"
   files:
-  links: 
+  links:
     - url: "http://www.youtube.com/watch?v=WI9l98UhBPg"
       title: "De Markies van Water - Part 1"
     - url: "http://www.youtube.com/watch?v=c2TpZZse7SQ"
@@ -77,12 +80,12 @@
   publisher: "Free International University"
   city: Amsterdam
   added: 2021-08-25
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Social_Sculpture_in_Practice.pdf"
       kind: "Full book"
       pages: 183
       language: [en]
-  links: 
+  links:
     - url: "http://www.fiuamsterdam.com"
       title: "Free International University Amsterdam"
 - title: "Paleo Psycho Pop 44-50"
@@ -90,7 +93,7 @@
   kind: [magazine]
   year: 2019
   added: 2020-02-29
-  files: 
+  files:
     - filename: "PPP44.pdf"
       kind: "Full magazine"
       pages: 31
@@ -119,7 +122,7 @@
       kind: "Full magazine"
       pages: 71
       language: [en]
-  links: 
+  links:
     - url: "http://www.paleopsychopop.org"
       title: "Paleo Psycho Pop"
 - title: "Cézanne in the critical work of Max Raphael"
@@ -128,12 +131,12 @@
   year: 2019
   editors: [Eli Bornstein]
   booktitle: "The Structurist 60th Anniversary Issue #51/52"
-  publisher: 
-  city: 
+  publisher:
+  city:
   pages: [27-36]
   added: 2019-11-15
   files:
-  links: 
+  links:
     - url: "https://shop.usask.ca/Item?item=40000226665#thumbs/0/"
       title: "University of Saskatchewan"
 - title: "Oran Hoffmann à Aix"
@@ -144,7 +147,7 @@
   city: Amsterdam
   extra: "On the occasion of Oran Hoffmann's exhibitions in Aix-en-Provence. English translation available now."
   added: 2018-09-21
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Oran_Hoffmann_a_Aix_FR.pdf"
       kind: "Full book"
       pages: 84
@@ -157,7 +160,7 @@
       kind: "Flyer of lecture on 23-09-2018"
       pages: 1
       language: [en]
-  links: 
+  links:
     - url: "https://oranhoffmann.com"
       title: "Oran Hoffmann"
 - title: "Richard Stout: The Cave of Making"
@@ -169,7 +172,7 @@
   extra: "Online publication"
   added: 2018-08-16
   files:
-  links: 
+  links:
     - url: "/articles/stout"
       title: "Richard Stout: The Cave of Making"
 - title: "Design, Demos, Dialectics: Max Raphael’s Theory of Doric Architecture"
@@ -178,16 +181,16 @@
   year: 2018
   editors: [Peter Hasdell, Gerhard Bruyns]
   booktitle: "Cubic Journal #1"
-  publisher: 
-  city: 
+  publisher:
+  city:
   pages: [108-123]
   added: 2018-08-16
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Design,_Demos,_Dialectics_Max_Raphaels_Theory_of_Doric_Architecture.pdf"
       kind: "Full article"
       pages: 16
       language: [en]
-  links: 
+  links:
     - url: "https://www.cubicjournal.org/index.php/cubic/issue/view/1"
       title: "DESIGN SOCIAL: Technology . Activism . Anti-social"
 - title: "Cézanne in the critical work of Max Raphael"
@@ -197,10 +200,10 @@
   publisher: "The Max Raphael Project"
   city: "Amsterdam/Rotterdam"
   extra: "Online publication"
-  pages: 
+  pages:
   added: 2018-06-08
   files:
-  links: 
+  links:
     - url: "https://www.maxraphael.org/resources/cezanne-in-the-critical-work/"
       title: "Cézanne in the critical work of Max Raphael"
 - title: "Gerhard Bruyns – A Portrait of the Artist as an Emergency"
@@ -211,7 +214,7 @@
   city: "Hong Kong"
   added: 2021-11-26
   files:
-  links: 
+  links:
     - url: "https://artomity.art/2017/01/06/a-portrait-of-the-artist-as-an-emergency/"
       title: "A portrait of the artist as an emergency"
 - title: "Carl Einstein – Bebuquin"
@@ -223,7 +226,7 @@
   extra: "Order now from Amazon!"
   added: 2018-01-03
   files:
-  links: 
+  links:
     - url: "https://amzn.eu/bTpKwzP"
       title: "Amazon"
     - url: "https://novembereditions.com/books/bebuquin/"
@@ -238,12 +241,12 @@
   city: Delft
   pages: [15-21]
   added: 2017-09-16
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_The_Music_of_Chairs.pdf"
       kind: "Full article"
       pages: 7
       language: [en]
-  links: 
+  links:
     - url: "https://books.bk.tudelft.nl/press/catalog/book/isbn.9789492516695"
       title: "Off The Shelf: Projects Surrounding the Chair Collection at the Faculty of Architecture"
 - title: "Karl Kraus - In These Great Times: Selected Writings"
@@ -255,7 +258,7 @@
   extra: "Paperback edition now available on Amazon"
   added: 2017-05-03
   files:
-  links: 
+  links:
     - url: "https://novembereditions.com/books/in-these-great-times-selected-writings-by-karl-kraus/"
       title: "November Editions"
     - url: "https://amzn.eu/hUnvtPc"
@@ -269,7 +272,7 @@
   extra: "Paperback edition now available on Amazon"
   added: 2016-12-25
   files:
-  links: 
+  links:
     - url: "https://amzn.eu/4M2DKYS"
       title: "Amazon"
     - url: "https://novembereditions.com/books/negro-sculpture/"
@@ -283,7 +286,7 @@
   extra: "Order now from Amazon"
   added: 2016-10-10
   files:
-  links: 
+  links:
     - url: https://novembereditions.com/books/invention-expressionism-critical-writings-1910-1913-max-raphael/
       title: "November Editions"
     - url: "https://www.amazon.co.uk/dp/9492027097/ref=cm_sw_em_r_mt_dp_TB0ZFZH7R7YJ10EGT667"
@@ -293,7 +296,7 @@
   kind: [magazine]
   year: 2016
   added: 2016-08-17
-  files: 
+  files:
     - filename: "PPP42.pdf"
       kind: "Full magazine"
       pages: 92
@@ -302,7 +305,7 @@
       kind: "Full magazine"
       pages: 144
       language: [en]
-  links: 
+  links:
     - url: "http://www.paleopsychopop.org"
       title: "Paleo Psycho Pop"
 - title: "The Book of Black and Blue"
@@ -312,7 +315,7 @@
   publisher: "Paleo Psycho Pop Press"
   city: Amsterdam
   added: 2016-08-06
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_The_Book_of_Black_and_Blue.pdf"
       kind: Preview
       pages: 10
@@ -329,12 +332,12 @@
   city: Delft
   pages: [1-9]
   added: 2016-05-10
-  files: 
+  files:
     - filename: "Patrick_Healy_and_Andrej_Radman_(eds)_-_Constellation_of_Awakening.pdf"
       kind: "Full journal"
       pages: 144
       language: [en]
-  links: 
+  links:
     - url: "https://journals.open.tudelft.nl/footprint/issue/view/437"
       title: "Issue # 18 | Spring / Summer 2016 | Constellation of Awakening: Benjamin and Architecture"
 - title: "Karl Kraus - The Last Days of Mankind"
@@ -345,12 +348,12 @@
   city: Amsterdam
   extra: "Chosen as one of 2016's best works of fiction in translation by Eileen Battersby of The Irish Times. ‘Healy has put a robust Dublin vernacular to effective use in a lively translation that is meticulously alert to Kraus’s subversive nuance and range of personalities and clever stereotypes’ – Eileen Battersby, The Irish Times, 2 July 2016"
   added: 2016-02-16
-  files: 
+  files:
     - filename: "Kraus,_Karl_-_The_Last_Days_of_Mankind.pdf"
       kind: "Back cover"
       pages: 1
       language: [en]
-  links: 
+  links:
     - url: "https://novembereditions.com/books/the-last-days-of-mankind-by-karl-kraus/"
       title: "November Editions"
     - url: "https://www.amazon.co.uk/d/Books/Last-Days-Mankind-Tragedy-Five/9492027038/ref=sr_1_2?ie=UTF8&qid=1491932943&sr=8-2&keywords=last+days+of+mankind"
@@ -368,7 +371,7 @@
   kind: [magazine]
   year: 2015
   added: 2016-02-23
-  files: 
+  files:
     - filename: "PPP37.pdf"
       kind: "Full magazine"
       pages: 44
@@ -389,7 +392,7 @@
       kind: "Full magazine"
       pages: 62
       language: [en]
-  links: 
+  links:
     - url: "http://www.paleopsychopop.org"
       title: "Paleo Psycho Pop"
 - title: "Through the Glass Darkly"
@@ -402,12 +405,12 @@
   city: Rotterdam
   pages: [377-385]
   added: 2016-01-15
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Through_the_Glass_Darkly.pdf"
       kind: "Full article"
       pages: 5
       language: [en]
-  links: 
+  links:
     - url: "https://thewhyfactory.com/news/barba-life-in-a-fully-adaptable-environment/"
       title: "Barba, Life in a Fully Adaptable Environment"
 - title: "Room-Scapes and Interior Lives"
@@ -420,12 +423,12 @@
   city: Amsterdam
   pages: [26-30]
   added: 2016-01-15
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Room-Scapes_and_Interior_Lives.pdf"
       kind: "Full article"
       pages: 4
       language: [en]
-  links: 
+  links:
     - url: "https://11-stijlkamers.hetnieuweinstituut.nl/en/activities/11-symposium"
       title: "1:1 Period Rooms by Andreas Angelidakis (The New Institute)"
 - title: "Funk on Healy: Mia Funk interviews Patrick Healy"
@@ -443,16 +446,16 @@
   year: 2014
   editors: [Marc Monjou]
   booktitle: "Azimuts 40-41: Revues de recherches en design"
-  publisher: 
-  city: 
+  publisher:
+  city:
   pages: [354-368]
   added: 2016-01-15
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_L_Ornement_aujourd_hui.pdf"
       kind: "Full article"
       pages: 15
       language: [fr]
-  links: 
+  links:
     - url: "https://www.citedudesign.com/fr/a/azimuts-n40-41-1497"
       title: "Azimuts n°40/41. Revues de recherche en design. Un panorama"
 - title: "העין החושבת / The Thinking Eye"
@@ -466,7 +469,7 @@
   pages: [19-23, 81-89]
   added: 2014-09-14
   files:
-  links: 
+  links:
     - url: "https://www.tamuseum.org.il/en/exhibition/objektiv-josef-albers-oran-hoffmann/"
       title: "Objektiv: Josef Albers, Oran Hoffmann"
 - title: "Carl Einstein - Negro Sculpture"
@@ -477,7 +480,7 @@
   city: Amsterdam
   added: 2014-07-06
   files:
-  links: 
+  links:
     - url: "https://novembereditions.com/books/negro-sculpture/"
       title: November Editions
     - url: "https://www.amazon.co.uk/Negro-Sculpture-Library-German-Expressionism/dp/9492027100/ref=sr_1_2?ie=UTF8&qid=1491931418&sr=8-2&keywords=negro+sculpture"
@@ -490,7 +493,7 @@
   city: Amsterdam
   added: 2014-07-06
   files:
-  links: 
+  links:
     - url: "https://novembereditions.com/books/in-these-great-times-selected-writings-by-karl-kraus/"
       title: "November Editions"
     - url: "https://www.amazon.co.uk/These-Great-Times-Selected-Expressionism/dp/9492027119/ref=sr_1_3?ie=UTF8&qid=1491931219&sr=8-3&keywords=in+these+great+times"
@@ -502,12 +505,12 @@
   editors: [Hilarius Hofstede, Patrick Healy]
   booktitle: "Paleo Psycho Pop #36"
   added: 2014-10-15
-  files: 
+  files:
     - filename: "PPP36.pdf"
       kind: "Full magazine"
       pages: 56
       language: [en]
-  links: 
+  links:
     - url: "http://www.paleopsychopop.org"
       title: "Paleo Psycho Pop"
 - title: "The Birthing of Things: Bergson as a Reader of Lucretius"
@@ -520,7 +523,7 @@
   city: Delft
   pages: [29-40]
   added: 2014-06-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_The_Birthing_of_Things.pdf"
       kind: "Full article"
       pages: 12
@@ -535,12 +538,12 @@
   city: Dessau
   pages: [116-121]
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_The_Jerusalem_Project.pdf"
       kind: "Full article"
       pages: 6
       language: [en]
-  links: 
+  links:
     - url: "http://www.ariegraafland.eu/education/jerusalem-damascus-gate/"
       title: "Arie Graafland"
 - title: "Paintings Drawings Objects"
@@ -562,7 +565,7 @@
   city: Delft
   pages: [18-39]
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_A_Dutch_Graafland.pdf"
       kind: "Full article"
       pages: 20
@@ -577,7 +580,7 @@
   city: London
   pages: [66-83]
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_The_Garden_of_Earthly_Delights.pdf"
       kind: "Full article"
       pages: 20
@@ -593,7 +596,7 @@
   pages: [8-31]
   added: 2014-06-27
   files:
-  links: 
+  links:
 - title: "Carl Einstein – Bebuquin"
   id: bebuquin
   kind: [introduction, translation]
@@ -601,7 +604,7 @@
   publisher: Trashfacebooks
   city: Dublin
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Carl_Einstein_and_the_Dilettantes_of_the_Miracle.pdf"
       kind: Introduction
       pages: 12
@@ -616,7 +619,7 @@
   city: Yorkshire
   pages: [20-23]
   added: 2014-06-27
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_The_Contemporary_To_What.pdf"
       kind: "Full article"
       pages: 4
@@ -643,7 +646,7 @@
   city: Amsterdam
   added: 2014-06-27
   files:
-  links: 
+  links:
     - url: "https://www.synonymbooks.com/titles.html"
       title: "Synonym Books"
 - title: "Paleo Psycho Pop"
@@ -656,12 +659,12 @@
   city: "The Hague"
   pages: [9-11]
   added: 2014-06-27
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Paleo_Psycho_Pop.pdf"
       kind: Introduction
       pages: 3
       language: [en]
-  links: 
+  links:
     - url: "https://issuu.com/riezz/docs/hilarius_hofstede/8"
       title: "Issuu – Hilarius Hofstede - Paleo Psycho Pop"
 - title: "The Model of Reason, or, a Reason for Models"
@@ -673,7 +676,7 @@
   city: Amersfoort
   pages: [16-19]
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_The_Model_of_Reason,_or,_a_Reason_for_Models.pdf"
       kind: "Full article"
       pages: 4
@@ -698,7 +701,7 @@
   city: Rotterdam
   pages: [208-231]
   added: 2014-10-08
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Other_Minds,_Other_Brains,_Other_Worlds.pdf"
       kind: "Full article"
       pages: 24
@@ -713,7 +716,7 @@
   city: Dublin
   pages: [3-11]
   added: 2014-07-30
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Paleo_Psycho_Pop_Writings.pdf"
       kind: Introduction
       pages: 9
@@ -725,7 +728,7 @@
   publisher: "010 Publishers"
   city: Rotterdam
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_The_Model_and_its_Architecture.pdf"
       kind: "Full book"
       pages: 208
@@ -742,12 +745,12 @@
   city: Delft
   pages: [1-5]
   added: 2014-06-28
-  files: 
+  files:
     - filename: "O_Byrne,_Brendan_and_Patrick_Healy_(eds)_-_Architecture_and_Phenomenology.pdf"
       kind: "Full magazine"
       pages: 153
       language: [en]
-  links: 
+  links:
     - url: "https://journals.open.tudelft.nl/footprint/issue/view/373"
       title: "Issue # 3 | Special issue | Architecture and Phenomenology"
 - title: "La Difesa della Natura"
@@ -758,12 +761,12 @@
   booktitle: "RISK Arte Oggi: Il Luogo della Natura"
   pages: [90-97]
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_La_Difesa_della_Natura.pdf"
       kind: "Full article"
       pages: 8
       language: [it]
-  links: 
+  links:
     - url: "http://www.fiuamsterdam.com/html/patrick_healy_-_la_difesa_dell.html"
       title: "Free International University Amsterdam - Patrick Healy. La Difesa della Natura"
 - title: "Beauty and architecture"
@@ -774,9 +777,9 @@
   booktitle: "BLIND #14 Schoonheid"
   added: 2014-06-28
   files:
-  links: 
-     - url: "https://ziedaar.nl/category/editie-14/"
-       title: "Blind - Editie 14 – Schoonheid"
+  links:
+    - url: "https://ziedaar.nl/category/editie-14/"
+      title: "Blind - Editie 14 – Schoonheid"
 - title: "Max Raphael, Dialectics and Greek Art"
   id: footprint1
   kind: [essay]
@@ -787,12 +790,12 @@
   city: Delft
   pages: [57-76]
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Max_Raphael,_Dialectics_and_Greek_Art.pdf"
       kind: "Full article"
       pages: 20
       language: [en]
-  links: 
+  links:
     - url: "https://journals.open.tudelft.nl/footprint/issue/view/371"
       title: "Issue # 1 | Autumn 2007 | Trans-disciplinary"
 - title: "Invention and the Technological Imperative"
@@ -805,7 +808,7 @@
   city: Rotterdam
   pages: [74-85]
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Invention_and_the_Technological_Imperative.pdf"
       kind: "Full article"
       pages: 12
@@ -817,7 +820,7 @@
   publisher: "Wienand Verlag"
   city: "Köln"
   added: 2014-06-28
-  files: 
+  files:
     - filename: "Healy,_Patrick_and_Waldo_Bien_-_Jacobus_Kloppenburg.pdf"
       kind: "Full book"
       pages: 209
@@ -832,7 +835,7 @@
   city: Rotterdam
   pages: [114-129]
   added: 2014-06-28
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_The_Stoical_Body.pdf"
       kind: "Full article"
       pages: 16
@@ -847,7 +850,7 @@
   city: Amsterdam
   pages: [21-32]
   added: 2014-06-28
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Pollachos_Polis_Legetai.pdf"
       kind: "Full article"
       pages: 11
@@ -860,9 +863,9 @@
   booktitle: "De-/signing the Urban"
   publisher: "010 Publishers"
   city: Rotterdam
-  pages: 
+  pages:
   added: 2014-06-28
-  files: 
+  files:
     - filename: "Healy,_Patrick_-Technogenesis_and_the_Inventive_City.pdf"
       kind: "Full article"
       pages: 22
@@ -893,7 +896,7 @@
   city: Aarhus
   pages: [59-83]
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Hilarius_Hofstede_and_Natural_Born_History.pdf"
       kind: "Full article"
       pages: 25
@@ -905,7 +908,7 @@
   publisher: "SUN Publishers"
   city: Amsterdam
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Images_of_Knowledge.pdf"
       kind: "Full book"
       pages: 158
@@ -920,12 +923,12 @@
   city: Delft
   pages: [20-21]
   added: 2014-06-28
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_That's_Boring.pdf"
       kind: "Full article"
       pages: 2
       language: [en]
-  links: 
+  links:
     - url: "https://issuu.com/stylos/docs/pantheon-0405-3_saai"
       title: "pantheon// '04-'05 - saai"
 - title: "Ornament Now?"
@@ -938,7 +941,7 @@
   city: Rotterdam
   pages: [40-62]
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Ornament_Now.pdf"
       kind: "Full article"
       pages: 22
@@ -950,7 +953,7 @@
   publisher: "SUN Publishers"
   city: Amsterdam
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Beauty_and_the_Sublime.pdf"
       kind: "Full book"
       pages: 160
@@ -962,7 +965,7 @@
   publisher: "Wienand Verlag"
   city: "Köln"
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Virgil_Grotfeldt.pdf"
       kind: "Full book"
       pages: 209
@@ -1004,7 +1007,7 @@
   city: Breda
   pages: [11-21]
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Berend_Hoekstra.pdf"
       kind: "Full article"
       pages: 11
@@ -1023,11 +1026,11 @@
   city: Amsterdam
   pages: [113-125]
   added: 2014-01-01
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_A_Negative_Philosophy_of_Flesh.pdf"
       kind: "Full article"
       pages: 13
-      language: [en,nl]
+      language: [en, nl]
 - title: "Burke's The Sublime and the Beautiful and Irish Landscape"
   id: thesublimeandthebeautiful
   kind: [essay]
@@ -1038,7 +1041,7 @@
   city: London
   pages: [10-17]
   added: 2014-07-30
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Burke's_The_Sublime_and_the_Beautiful_and_Irish_Landscape.pdf"
       kind: "Full article"
       pages: 8
@@ -1049,7 +1052,7 @@
   year: "1996-2014"
   added: 2014-01-01
   files:
-  links: 
+  links:
     - url: "http://www.paleopsychopop.org"
       title: "Paleo Psycho Pop"
 - title: "Joyce: Through the Lacan Glass"
@@ -1060,7 +1063,7 @@
   booktitle: "Lacanian Ink #11"
   added: 2014-06-28
   files:
-  links: 
+  links:
     - url: "https://www.lacan.com/frameXI3.htm"
       title: "Lacanian Ink – Joyce: Through the Lacan Glass"
 - title: "Philosophische Grundlagen des Frühwerks von Max Raphael"
@@ -1073,7 +1076,7 @@
   city: Wien
   pages: [121-131]
   added: 2014-06-01
-  files: 
+  files:
     - filename: "Raphael,_Max_-_Das_schoepferische_Auge.pdf"
       kind: "Full book"
       pages: 94
@@ -1088,7 +1091,7 @@
   city: Dublin
   pages: [29-33]
   added: 2014-07-30
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_Matisse_and_the_earliest_theory_of_German_Expressionism.pdf"
       kind: "Full article"
       pages: 4
@@ -1100,12 +1103,12 @@
   publisher: "The Lilliput Press"
   city: Dublin
   added: 2014-07-30
-  files: 
+  files:
     - filename: "Healy,_Patrick_-_The_Modern_and_the_Wake.pdf"
       kind: Selection
       pages: 72
       language: [en]
-  links: 
+  links:
     - url: "https://ubu.com/sound/joyce_fw.html"
       title: "Ubuweb: Sound. James Joyce (1882-1941)"
 - title: "Up in the Air and Down"
