@@ -37,18 +37,18 @@
   links:
     - url: "https://www.modi-operandi.space/n03/reflections/reflection/"
       title: Modi Operandi
-- title: "The Brick of Destiny: When Gods Were Architects"
-  id: brickofdestiny
-  kind: [lecture]
-  year: 2021
-  publisher: "Faculty of Architecture and the Built Environment"
-  city: "TU Delft"
-  added: 2021-11-26
-  extra: "Farewell lecture, available on YouTube"
-  files:
-  links:
-    - url: "http://www.youtube.com/watch?v=RLdloKqiu9c"
-      title: "BK Talks: Farewell Patrick Healy: The Brick of Destiny: when Gods were Architects"
+# - title: "The Brick of Destiny: When Gods Were Architects"
+#   id: brickofdestiny
+#   kind: [lecture]
+#   year: 2021
+#   publisher: "Faculty of Architecture and the Built Environment"
+#   city: "TU Delft"
+#   added: 2021-11-26
+#   extra: "Farewell lecture, available on YouTube"
+#   files:
+#   links:
+#     - url: "http://www.youtube.com/watch?v=RLdloKqiu9c"
+#       title: "BK Talks: Farewell Patrick Healy: The Brick of Destiny: when Gods were Architects"
 - title: "De Markies van Water (reading in 7 parts)"
   id: markiesvanwater
   kind: [recording]
