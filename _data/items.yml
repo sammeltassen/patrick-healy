@@ -1,3 +1,22 @@
+- title: "Beyond the Pale"
+  id: beyond-the-pale
+  kind: [book]
+  year: 2025
+  publisher: "November Editions"
+  city: Amsterdam
+  added: 2025-07-13
+  extra: "New literary novel out now!"
+  links:
+    - title: "Book blurp"
+      url: "/articles/beyond-the-pale"
+    - title: "Interview with Patrick Healy"
+      url: "https://www.creativeprocess.info/interviews22/patrick-healy"
+    - title: "Amazon (UK)"
+      url: https://amzn.eu/d/e7MXNyq
+    - title: "Amazon (USA)"
+      url: https://a.co/d/aUnhQwD
+    - title: "Waterstones"
+      url: "https://www.waterstones.com/book/beyond-the-pale/patrick-healy/9789492027290"
 - title: "The Performer: Art · Life · Politics"
   id: creative-process-the-performer
   booktitle: "Creative Process"
